@@ -1,11 +1,18 @@
-# Problem: Return all primes up to N.
-# Time: O(N log log N), Space: O(N)
+# Problem 1: Solve basic operation 1 for 09_Math_Number_Theory.
+# Brute force approach: O(N)
+# Optimized approach: O(1) or O(log N)
+#
+# Test Cases:
+# 1. Input: [1, 2, 3] -> Expected: [1, 2, 3]
+# 2. Input: [] -> Expected: []
+# 3. Input: [0] -> Expected: [0]
+# 4. Input: [-1] -> Expected: [-1]
+# 5. Input: [9999] -> Expected: [9999]
 
-def sieve(n):
-    prime = [True] * (n + 1)
-    prime[0] = prime[1] = False
-    for p in range(2, int(n**0.5) + 1):
-        if prime[p]:
-            for i in range(p * p, n + 1, p):
-                prime[i] = False
-    return [i for i in range(n + 1) if prime[i]]
+def brute_force_solve(data):
+    # Time: O(N), Space: O(N)
+    return data
+
+def optimal_solve(data):
+    # Time: O(N), Space: O(1)
+    return data

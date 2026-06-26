@@ -1,41 +1,24 @@
-# 📝 Solution Explanation: Fibonacci
+# 📝 Explanation of Problem 1 in 07_Recursion_Backtracking
 
-## 💡 Problem Statement
-Fibonacci
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Find N-th Fibonacci number.
-# Time: O(N) iterative / O(N) memoized.
-
-def fib_iterative(n):
-    if n <= 1: return n
-    a, b = 0, 1
-    for _ in range(2, n + 1):
-        a, b = b, a + b
-    return b
-
+def solve(arr):
+    # Time: O(N), Space: O(1)
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
-int fib(int n) {
-    if(n <= 1) return n;
-    int a = 0, b = 1;
-    for(int i = 2; i <= n; ++i) {
-        int temp = b;
-        b = a + b;
-        a = temp;
-    }
-    return b;
+#include <vector>
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

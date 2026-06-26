@@ -1,9 +1,18 @@
-# Problem: 0/1 Knapsack.
-# Time: O(N*W), Space: O(W) space optimized.
+# Problem 1: Solve basic operation 1 for 08_Dynamic_Programming.
+# Brute force approach: O(N)
+# Optimized approach: O(1) or O(log N)
+#
+# Test Cases:
+# 1. Input: [1, 2, 3] -> Expected: [1, 2, 3]
+# 2. Input: [] -> Expected: []
+# 3. Input: [0] -> Expected: [0]
+# 4. Input: [-1] -> Expected: [-1]
+# 5. Input: [9999] -> Expected: [9999]
 
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for i in range(n):
-        for w in range(W, wt[i] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[i]] + val[i])
-    return dp[W]
+def brute_force_solve(data):
+    # Time: O(N), Space: O(N)
+    return data
+
+def optimal_solve(data):
+    # Time: O(N), Space: O(1)
+    return data

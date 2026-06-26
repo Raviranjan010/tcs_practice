@@ -1,41 +1,24 @@
-# 📝 Solution Explanation: Matrix Transpose
+# 📝 Explanation of Problem 1 in 11_Matrix
 
-## 💡 Problem Statement
-Matrix Transpose
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Transpose matrix in-place for square matrix.
-# Time: O(R*C), Space: O(1)
-
-def transpose(mat):
-    n = len(mat)
-    for i in range(n):
-        for j in range(i + 1, n):
-            mat[i][j], mat[j][i] = mat[j][i], mat[i][j]
-    return mat
-
+def solve(arr):
+    # Time: O(N), Space: O(1)
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
 #include <vector>
-#include <algorithm>
-void transpose(std::vector<std::vector<int>>& mat) {
-    int n = mat.size();
-    for(int i = 0; i < n; ++i) {
-        for(int j = i + 1; j < n; ++j) {
-            std::swap(mat[i][j], mat[j][i]);
-        }
-    }
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

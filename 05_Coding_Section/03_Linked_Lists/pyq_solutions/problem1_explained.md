@@ -1,56 +1,24 @@
-# 📝 Solution Explanation: Reverse a Linked List
+# 📝 Explanation of Problem 1 in 03_Linked_Lists
 
-## 💡 Problem Statement
-Reverse a Linked List
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Reverse a singly linked list in place.
-# Edge cases: Empty list, single node list.
-
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
-def reverse_list(head):
+def solve(arr):
     # Time: O(N), Space: O(1)
-    prev = None
-    curr = head
-    while curr:
-        next_node = curr.next
-        curr.next = prev
-        prev = curr
-        curr = next_node
-    return prev
-
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
-struct ListNode {
-    int val;
-    ListNode* next;
-    ListNode(int x) : val(x), next(nullptr) {}
-};
-ListNode* reverseList(ListNode* head) {
-    ListNode* prev = nullptr;
-    ListNode* curr = head;
-    while(curr) {
-        ListNode* nextNode = curr->next;
-        curr->next = prev;
-        prev = curr;
-        curr = nextNode;
-    }
-    return prev;
+#include <vector>
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

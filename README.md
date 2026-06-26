@@ -18,6 +18,7 @@ Welcome to the **Ultimate TCS NQT (National Qualifier Test) Preparation Reposito
 | 📈 [06. Advanced Quantitative](06_Advanced_Quantitative/README.md) | Advanced Number Theory, Advanced Probability & DI | Digital/Prime Cutoff |
 | 🤝 [07. Interview Prep](07_Interview_Prep/README.md) | HR, Technical & Managerial Rounds Guide + Dos/Don'ts | Final Selection |
 | ⏱️ [08. Quick Revision](08_Quick_Revision/README.md) | Last 7 days strategy, Formula Master & Exam Day Checklist | Last-Minute Tips |
+| 🎯 [09. TCS NQT Specific](09_TCS_NQT_Specific/README.md) | Tricks, proprietary pseudocode guide, 300 MCQs, 800 Aptitude Qs | Exam Specifics |
 
 ---
 

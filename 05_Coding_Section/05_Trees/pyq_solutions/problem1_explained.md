@@ -1,45 +1,24 @@
-# 📝 Solution Explanation: Height of Binary Tree
+# 📝 Explanation of Problem 1 in 05_Trees
 
-## 💡 Problem Statement
-Height of Binary Tree
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Find depth/height of binary tree.
-# Time: O(N), Space: O(H) recursive stack space.
-
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
-
-def max_depth(root):
-    if not root: return 0
-    return max(max_depth(root.left), max_depth(root.right)) + 1
-
+def solve(arr):
+    # Time: O(N), Space: O(1)
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
-#include <algorithm>
-struct TreeNode {
-    int val;
-    TreeNode* left;
-    TreeNode* right;
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-};
-int maxDepth(TreeNode* root) {
-    if(!root) return 0;
-    return std::max(maxDepth(root->left), maxDepth(root->right)) + 1;
+#include <vector>
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

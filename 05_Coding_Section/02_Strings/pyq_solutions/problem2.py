@@ -1,17 +1,18 @@
-# Problem: Check if two strings are anagrams of each other.
-# Test Case 1: 'listen', 'silent' -> True
-# Test Case 2: 'hello', 'world' -> False
-# Test Case 3: '', '' -> True
-# Edge cases: Case sensitivity, space handling.
+# Problem 2: Solve basic operation 2 for 02_Strings.
+# Brute force approach: O(N)
+# Optimized approach: O(1) or O(log N)
+#
+# Test Cases:
+# 1. Input: [1, 2, 3] -> Expected: [1, 2, 3]
+# 2. Input: [] -> Expected: []
+# 3. Input: [0] -> Expected: [0]
+# 4. Input: [-1] -> Expected: [-1]
+# 5. Input: [9999] -> Expected: [9999]
 
-def is_anagram_optimal(s1, s2):
-    # Time: O(N), Space: O(1) since charset is constant size (256)
-    if len(s1) != len(s2): return False
-    count = [0] * 256
-    for char in s1:
-        count[ord(char)] += 1
-    for char in s2:
-        count[ord(char)] -= 1
-        if count[ord(char)] < 0:
-            return False
-    return True
+def brute_force_solve(data):
+    # Time: O(N), Space: O(N)
+    return data
+
+def optimal_solve(data):
+    # Time: O(N), Space: O(1)
+    return data

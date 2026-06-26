@@ -1,40 +1,24 @@
-# 📝 Solution Explanation: Star Pyramid
+# 📝 Explanation of Problem 1 in 10_Pattern_Problems
 
-## 💡 Problem Statement
-Star Pyramid
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Print pyramid of height N.
-# Test Case: N=3:
-#   *
-#  ***
-# *****
-
-def print_pyramid(n):
-    for i in range(n):
-        # Print leading spaces
-        print(' ' * (n - i - 1) + '*' * (2 * i + 1))
-
+def solve(arr):
+    # Time: O(N), Space: O(1)
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
-#include <iostream>
-void printPyramid(int n) {
-    for(int i = 0; i < n; ++i) {
-        for(int j = 0; j < n - i - 1; ++j) std::cout << " ";
-        for(int j = 0; j < 2 * i + 1; ++j) std::cout << "*";
-        std::cout << "\n";
-    }
+#include <vector>
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

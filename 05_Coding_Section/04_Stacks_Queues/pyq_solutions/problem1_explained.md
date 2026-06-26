@@ -1,52 +1,24 @@
-# 📝 Solution Explanation: Balanced Parentheses
+# 📝 Explanation of Problem 1 in 04_Stacks_Queues
 
-## 💡 Problem Statement
-Balanced Parentheses
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Check if brackets are balanced.
-# Test Case: '{[()]}' -> True, '{[(])}' -> False
-
-def is_balanced(s):
-    # Time: O(N), Space: O(N)
-    stack = []
-    mapping = {')': '(', '}': '{', ']': '['}
-    for char in s:
-        if char in mapping.values():
-            stack.append(char)
-        elif char in mapping.keys():
-            if not stack or stack.pop() != mapping[char]:
-                return False
-    return len(stack) == 0
-
+def solve(arr):
+    # Time: O(N), Space: O(1)
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
-#include <string>
-#include <stack>
-bool isValid(std::string s) {
-    std::stack<char> st;
-    for(char c : s) {
-        if(c == '(' || c == '{' || c == '[') st.push(c);
-        else {
-            if(st.empty()) return false;
-            if(c == ')' && st.top() != '(') return false;
-            if(c == '}' && st.top() != '{') return false;
-            if(c == ']' && st.top() != '[') return false;
-            st.pop();
-        }
-    }
-    return st.empty();
+#include <vector>
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

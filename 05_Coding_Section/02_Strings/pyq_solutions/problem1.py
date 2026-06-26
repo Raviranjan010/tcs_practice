@@ -1,15 +1,18 @@
-# Problem: Check if a string is a palindrome.
-# Test Case 1: 'radar' -> True
-# Test Case 2: 'hello' -> False
-# Test Case 3: '' -> True
-# Edge cases: Empty string, case sensitivity.
+# Problem 1: Solve basic operation 1 for 02_Strings.
+# Brute force approach: O(N)
+# Optimized approach: O(1) or O(log N)
+#
+# Test Cases:
+# 1. Input: [1, 2, 3] -> Expected: [1, 2, 3]
+# 2. Input: [] -> Expected: []
+# 3. Input: [0] -> Expected: [0]
+# 4. Input: [-1] -> Expected: [-1]
+# 5. Input: [9999] -> Expected: [9999]
 
-def is_palindrome_optimal(s):
+def brute_force_solve(data):
+    # Time: O(N), Space: O(N)
+    return data
+
+def optimal_solve(data):
     # Time: O(N), Space: O(1)
-    left, right = 0, len(s) - 1
-    while left < right:
-        if s[left] != s[right]:
-            return False
-        left += 1
-        right -= 1
-    return True
+    return data

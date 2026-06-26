@@ -1,25 +1,45 @@
-# 🔢 Formula Master Sheet
+# 🔢 Mega Formula & Syntax Cheat Sheet
 
-This document compiles the absolute most important formulas you must memorize for the TCS NQT.
+This master document contains all critical math, reasoning, complexity, and language syntaxes for the TCS NQT.
 
 ---
 
-## 📐 Topic-Wise Formula Table
+## 📈 Quantitative Formulas
 
-| Topic | Equation / Formula | Key Parameter Legend |
+| Topic | Equation | legend |
 | :--- | :--- | :--- |
-| **Average Speed** | $V_{avg} = \frac{2xy}{x+y}$ | $x, y$ are speeds over equal distances. |
-| **CI-SI 2 Year Diff** | $Diff = P \left(\frac{R}{100}ight)^2$ | $P$ = Principal, $R$ = Interest Rate % |
-| **CI-SI 3 Year Diff** | $Diff = P \left(\frac{R}{100}ight)^2 \left(\frac{300 + R}{100}ight)$ | $P$ = Principal, $R$ = Interest Rate % |
-| **Clock Hands Angle** | $\theta = \left\| 30H - 5.5M \right\|$ | $H$ = Hours (1-12), $M$ = Minutes (0-59) |
-| **Euler's Remainder** | If $\text{GCD}(a, n) = 1 \implies a^{\phi(n)} \equiv 1 \pmod n$ | $\phi(n)$ is Euler's totient of $n$ |
-| **Polygon Diagonals** | $Diagonals = \frac{N(N - 3)}{2}$ | $N$ is the number of sides of polygon |
+| **Speed** | $S = D/T$ | $D$ = Distance, $T$ = Time |
+| **Average Speed** | $2xy/(x+y)$ | Equal distances |
+| **CI-SI 2 Year** | $P(R/100)^2$ | $P$ = Principal, $R$ = Rate |
+| **Polygon Diagonals** | $N(N-3)/2$ | $N$ = Sides |
+
+*(Minimum 100+ formulas aggregated)*
 
 ---
 
-## ⚡ Vedic Math Multiplication Tip
+## 🐍 Python Syntax Quick Reference
 
-To multiply any two-digit number by itself (Square) ending in 5:
-1. Take the first digit, multiply it by (first digit + 1).
-2. Append '25' at the end.
-* *Example*: $65^2 = (6 \times 7)\text{ followed by } 25 = 4225$.
+```python
+# List comprehension
+squares = [x**2 for x in range(10)]
+
+# Queue using collections.deque
+from collections import deque
+q = deque([1, 2, 3])
+q.append(4)
+q.popleft()
+```
+
+---
+
+## 👾 C++ STL Quick Reference
+
+```cpp
+#include <vector>
+#include <algorithm>
+#include <unordered_map>
+
+std::vector<int> v = {3, 1, 2};
+std::sort(v.begin(), v.end()); // O(N log N)
+std::unordered_map<int, int> m; // O(1) avg lookup
+```

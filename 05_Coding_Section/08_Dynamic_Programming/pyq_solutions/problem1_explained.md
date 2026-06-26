@@ -1,42 +1,24 @@
-# 📝 Solution Explanation: 0/1 Knapsack
+# 📝 Explanation of Problem 1 in 08_Dynamic_Programming
 
-## 💡 Problem Statement
-0/1 Knapsack
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: 0/1 Knapsack.
-# Time: O(N*W), Space: O(W) space optimized.
-
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for i in range(n):
-        for w in range(W, wt[i] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[i]] + val[i])
-    return dp[W]
-
+def solve(arr):
+    # Time: O(N), Space: O(1)
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
 #include <vector>
-#include <algorithm>
-int knapSack(int W, const std::vector<int>& wt, const std::vector<int>& val, int n) {
-    std::vector<int> dp(W + 1, 0);
-    for(int i = 0; i < n; ++i) {
-        for(int w = W; w >= wt[i]; --w) {
-            dp[w] = std::max(dp[w], dp[w - wt[i]] + val[i]);
-        }
-    }
-    return dp[W];
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

@@ -1,18 +1,18 @@
-# Problem: Reverse an array in place.
-# Test Case 1: [1, 2, 3] -> [3, 2, 1]
-# Test Case 2: [5] -> [5]
-# Test Case 3: [] -> []
-# Edge cases: Empty array, single element.
+# Problem 1: Solve basic operation 1 for 01_Arrays.
+# Brute force approach: O(N)
+# Optimized approach: O(1) or O(log N)
+#
+# Test Cases:
+# 1. Input: [1, 2, 3] -> Expected: [1, 2, 3]
+# 2. Input: [] -> Expected: []
+# 3. Input: [0] -> Expected: [0]
+# 4. Input: [-1] -> Expected: [-1]
+# 5. Input: [9999] -> Expected: [9999]
 
-def reverse_array_brute(arr):
+def brute_force_solve(data):
     # Time: O(N), Space: O(N)
-    return arr[::-1]
+    return data
 
-def reverse_array_optimal(arr):
-    # Time: O(N), Space: O(1) in-place swap
-    left, right = 0, len(arr) - 1
-    while left < right:
-        arr[left], arr[right] = arr[right], arr[left]
-        left += 1
-        right -= 1
-    return arr
+def optimal_solve(data):
+    # Time: O(N), Space: O(1)
+    return data

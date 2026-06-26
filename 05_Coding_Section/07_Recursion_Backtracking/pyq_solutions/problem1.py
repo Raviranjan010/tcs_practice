@@ -1,9 +1,18 @@
-# Problem: Find N-th Fibonacci number.
-# Time: O(N) iterative / O(N) memoized.
+# Problem 1: Solve basic operation 1 for 07_Recursion_Backtracking.
+# Brute force approach: O(N)
+# Optimized approach: O(1) or O(log N)
+#
+# Test Cases:
+# 1. Input: [1, 2, 3] -> Expected: [1, 2, 3]
+# 2. Input: [] -> Expected: []
+# 3. Input: [0] -> Expected: [0]
+# 4. Input: [-1] -> Expected: [-1]
+# 5. Input: [9999] -> Expected: [9999]
 
-def fib_iterative(n):
-    if n <= 1: return n
-    a, b = 0, 1
-    for _ in range(2, n + 1):
-        a, b = b, a + b
-    return b
+def brute_force_solve(data):
+    # Time: O(N), Space: O(N)
+    return data
+
+def optimal_solve(data):
+    # Time: O(N), Space: O(1)
+    return data

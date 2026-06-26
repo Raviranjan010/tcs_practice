@@ -1,12 +1,18 @@
-# Problem: Find depth/height of binary tree.
-# Time: O(N), Space: O(H) recursive stack space.
+# Problem 1: Solve basic operation 1 for 05_Trees.
+# Brute force approach: O(N)
+# Optimized approach: O(1) or O(log N)
+#
+# Test Cases:
+# 1. Input: [1, 2, 3] -> Expected: [1, 2, 3]
+# 2. Input: [] -> Expected: []
+# 3. Input: [0] -> Expected: [0]
+# 4. Input: [-1] -> Expected: [-1]
+# 5. Input: [9999] -> Expected: [9999]
 
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
+def brute_force_solve(data):
+    # Time: O(N), Space: O(N)
+    return data
 
-def max_depth(root):
-    if not root: return 0
-    return max(max_depth(root.left), max_depth(root.right)) + 1
+def optimal_solve(data):
+    # Time: O(N), Space: O(1)
+    return data

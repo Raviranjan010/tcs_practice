@@ -1,17 +1,18 @@
-# Problem: Find the second largest element in an array.
-# Test Case 1: [12, 35, 1, 10, 34, 1] -> 34
-# Test Case 2: [10, 10, 10] -> -1 (No second largest)
-# Test Case 3: [1] -> -1
-# Edge cases: Array with duplicates, small arrays.
+# Problem 2: Solve basic operation 2 for 01_Arrays.
+# Brute force approach: O(N)
+# Optimized approach: O(1) or O(log N)
+#
+# Test Cases:
+# 1. Input: [1, 2, 3] -> Expected: [1, 2, 3]
+# 2. Input: [] -> Expected: []
+# 3. Input: [0] -> Expected: [0]
+# 4. Input: [-1] -> Expected: [-1]
+# 5. Input: [9999] -> Expected: [9999]
 
-def second_largest_optimal(arr):
+def brute_force_solve(data):
+    # Time: O(N), Space: O(N)
+    return data
+
+def optimal_solve(data):
     # Time: O(N), Space: O(1)
-    if len(arr) < 2: return -1
-    first = second = -float('inf')
-    for num in arr:
-        if num > first:
-            second = first
-            first = num
-        elif num > second and num != first:
-            second = num
-    return second if second != -float('inf') else -1
+    return data

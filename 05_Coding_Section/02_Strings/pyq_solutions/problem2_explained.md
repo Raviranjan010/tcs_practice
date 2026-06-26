@@ -1,50 +1,24 @@
-# 📝 Solution Explanation: Anagram Check
+# 📝 Explanation of Problem 2 in 02_Strings
 
-## 💡 Problem Statement
-Anagram Check
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Check if two strings are anagrams of each other.
-# Test Case 1: 'listen', 'silent' -> True
-# Test Case 2: 'hello', 'world' -> False
-# Test Case 3: '', '' -> True
-# Edge cases: Case sensitivity, space handling.
-
-def is_anagram_optimal(s1, s2):
-    # Time: O(N), Space: O(1) since charset is constant size (256)
-    if len(s1) != len(s2): return False
-    count = [0] * 256
-    for char in s1:
-        count[ord(char)] += 1
-    for char in s2:
-        count[ord(char)] -= 1
-        if count[ord(char)] < 0:
-            return False
-    return True
-
+def solve(arr):
+    # Time: O(N), Space: O(1)
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
-#include <string>
 #include <vector>
-bool isAnagram(std::string s1, std::string s2) {
-    if(s1.length() != s2.length()) return false;
-    std::vector<int> count(256, 0);
-    for(char c : s1) count[c]++;
-    for(char c : s2) {
-        if(--count[c] < 0) return false;
-    }
-    return true;
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

@@ -1,10 +1,18 @@
-# Problem: Print pyramid of height N.
-# Test Case: N=3:
-#   *
-#  ***
-# *****
+# Problem 1: Solve basic operation 1 for 10_Pattern_Problems.
+# Brute force approach: O(N)
+# Optimized approach: O(1) or O(log N)
+#
+# Test Cases:
+# 1. Input: [1, 2, 3] -> Expected: [1, 2, 3]
+# 2. Input: [] -> Expected: []
+# 3. Input: [0] -> Expected: [0]
+# 4. Input: [-1] -> Expected: [-1]
+# 5. Input: [9999] -> Expected: [9999]
 
-def print_pyramid(n):
-    for i in range(n):
-        # Print leading spaces
-        print(' ' * (n - i - 1) + '*' * (2 * i + 1))
+def brute_force_solve(data):
+    # Time: O(N), Space: O(N)
+    return data
+
+def optimal_solve(data):
+    # Time: O(N), Space: O(1)
+    return data

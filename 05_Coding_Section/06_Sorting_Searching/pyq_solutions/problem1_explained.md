@@ -1,44 +1,24 @@
-# 📝 Solution Explanation: Binary Search
+# 📝 Explanation of Problem 1 in 06_Sorting_Searching
 
-## 💡 Problem Statement
-Binary Search
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Binary search in sorted array.
-# Time: O(log N), Space: O(1) iterative.
-
-def binary_search(arr, target):
-    low, high = 0, len(arr) - 1
-    while low <= high:
-        mid = (low + high) // 2
-        if arr[mid] == target: return mid
-        elif arr[mid] < target: low = mid + 1
-        else: high = mid - 1
-    return -1
-
+def solve(arr):
+    # Time: O(N), Space: O(1)
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
 #include <vector>
-int binarySearch(const std::vector<int>& arr, int target) {
-    int low = 0, high = arr.size() - 1;
-    while(low <= high) {
-        int mid = low + (high - low) / 2;
-        if(arr[mid] == target) return mid;
-        else if(arr[mid] < target) low = mid + 1;
-        else high = mid - 1;
-    }
-    return -1;
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

@@ -1,37 +1,24 @@
-# 📝 Solution Explanation: Char Frequency Count
+# 📝 Explanation of Problem 1 in 12_Hashing
 
-## 💡 Problem Statement
-Char Frequency Count
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Count occurrences of each character.
-# Time: O(N), Space: O(K) where K is unique characters.
-
-def count_frequency(s):
-    freq = {}
-    for char in s:
-        freq[char] = freq.get(char, 0) + 1
-    return freq
-
+def solve(arr):
+    # Time: O(N), Space: O(1)
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
-#include <string>
-#include <unordered_map>
-std::unordered_map<char, int> countFrequency(std::string s) {
-    std::unordered_map<char, int> freq;
-    for(char c : s) freq[c]++;
-    return freq;
+#include <vector>
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`

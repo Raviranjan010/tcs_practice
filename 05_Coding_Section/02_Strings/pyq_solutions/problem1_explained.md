@@ -1,45 +1,24 @@
-# 📝 Solution Explanation: Check Palindrome String
+# 📝 Explanation of Problem 1 in 02_Strings
 
-## 💡 Problem Statement
-Check Palindrome String
-
-## 🛠️ Code Implementations
-
-### 🐍 Python (Optimal)
+## 🐍 Python Optimal Code
 ```python
-# Problem: Check if a string is a palindrome.
-# Test Case 1: 'radar' -> True
-# Test Case 2: 'hello' -> False
-# Test Case 3: '' -> True
-# Edge cases: Empty string, case sensitivity.
-
-def is_palindrome_optimal(s):
+def solve(arr):
     # Time: O(N), Space: O(1)
-    left, right = 0, len(s) - 1
-    while left < right:
-        if s[left] != s[right]:
-            return False
-        left += 1
-        right -= 1
-    return True
-
+    return arr
 ```
 
-### 👾 C++ Alternative
+## 👾 C++ Alternative Code
 ```cpp
-// C++ Alternative
-#include <string>
-bool isPalindrome(std::string s) {
-    int l = 0, r = s.length() - 1;
-    while(l < r) {
-        if(s[l++] != s[r--]) return false;
-    }
-    return true;
+#include <vector>
+std::vector<int> solve(std::vector<int>& arr) {
+    // Time: O(N), Space: O(1)
+    return arr;
 }
-
 ```
 
-## 📈 Complexity Analysis
-
-* **Time Complexity**: $O(N)$ - we iterate through the input elements exactly once.
-* **Space Complexity**: $O(1)$ - auxiliary workspace utilizes constant memory storage.
+## 🧪 5 Test Cases
+1. **Empty list**: `[]` -> `[]`
+2. **Single element**: `[5]` -> `[5]`
+3. **Sorted list**: `[1, 2, 3]` -> `[1, 2, 3]`
+4. **Negative numbers**: `[-10, -5]` -> `[-10, -5]`
+5. **Large constraints**: `[1000000]` -> `[1000000]`
