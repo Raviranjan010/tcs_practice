@@ -5,16 +5,6 @@ This file contains fully implemented, optimal coding solutions for the 30 most a
 ## Problem 1: 0/1 Knapsack (Variation 1)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -34,16 +24,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 2: 0/1 Knapsack (Variation 2)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -65,16 +45,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 3: 0/1 Knapsack (Variation 3)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -94,16 +64,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 4: 0/1 Knapsack (Variation 4)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -125,16 +85,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 5: 0/1 Knapsack (Variation 5)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -154,16 +104,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 6: 0/1 Knapsack (Variation 6)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -185,16 +125,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 7: 0/1 Knapsack (Variation 7)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -214,16 +144,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 8: 0/1 Knapsack (Variation 8)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -245,16 +165,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 9: 0/1 Knapsack (Variation 9)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -274,16 +184,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 10: 0/1 Knapsack (Variation 10)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -305,16 +205,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 11: 0/1 Knapsack (Variation 11)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -334,16 +224,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 12: 0/1 Knapsack (Variation 12)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -365,16 +245,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 13: 0/1 Knapsack (Variation 13)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -394,16 +264,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 14: 0/1 Knapsack (Variation 14)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -425,16 +285,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 15: 0/1 Knapsack (Variation 15)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -454,16 +304,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 16: 0/1 Knapsack (Variation 16)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -485,16 +325,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 17: 0/1 Knapsack (Variation 17)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -514,16 +344,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 18: 0/1 Knapsack (Variation 18)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -545,16 +365,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 19: 0/1 Knapsack (Variation 19)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -574,16 +384,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 20: 0/1 Knapsack (Variation 20)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -605,16 +405,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 21: 0/1 Knapsack (Variation 21)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -634,16 +424,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 22: 0/1 Knapsack (Variation 22)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -665,16 +445,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 23: 0/1 Knapsack (Variation 23)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -694,16 +464,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 24: 0/1 Knapsack (Variation 24)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -725,16 +485,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 25: 0/1 Knapsack (Variation 25)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -754,16 +504,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 26: 0/1 Knapsack (Variation 26)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -785,16 +525,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 27: 0/1 Knapsack (Variation 27)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -814,16 +544,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 28: 0/1 Knapsack (Variation 28)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -845,16 +565,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 ## Problem 29: 0/1 Knapsack (Variation 29)
 Max profit within weight capacity W.
 
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -874,16 +584,6 @@ int knapsack(int W, const std::vector<int>& wt, const std::vector<int>& val, int
 
 ## Problem 30: 0/1 Knapsack (Variation 30)
 Max profit within weight capacity W.
-
-### 🐍 Python Solution
-```python
-def knapsack(W, wt, val, n):
-    dp = [0] * (W + 1)
-    for idx in range(n):
-        for w in range(W, wt[idx] - 1, -1):
-            dp[w] = max(dp[w], dp[w - wt[idx]] + val[idx])
-    return dp[W]
-```
 
 ### 👾 C++ Solution
 ```cpp

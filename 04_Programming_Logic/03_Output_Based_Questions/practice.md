@@ -1,343 +1,495 @@
-# 📝 Graded Practice Questions: Output Based Questions
+# 📝 Output Based Questions - Practice Questions
 
-This practice sheet contains 30+ graded questions categorized into **Beginner**, **Intermediate**, and **Advanced** levels to build step-by-step competency.
+Attempt these 35 unique practice questions to master concepts.
 
-## 🟢 Beginner Level (Questions 1 - 10)
+## Questions
 
-**Q1.** In C, what does the operator '&' before a variable return?
+**Q1.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 1)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q2.** In C, what does the operator '&' before a variable return?
+---
+
+**Q2.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 2)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q3.** In C, what does the operator '&' before a variable return?
+---
+
+**Q3.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 3)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q4.** In C, what does the operator '&' before a variable return?
+---
+
+**Q4.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 4)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q5.** In C, what does the operator '&' before a variable return?
+---
+
+**Q5.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 5)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q6.** In C, what does the operator '&' before a variable return?
+---
+
+**Q6.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 6)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q7.** In C, what does the operator '&' before a variable return?
+---
+
+**Q7.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 7)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q8.** In C, what does the operator '&' before a variable return?
+---
+
+**Q8.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 8)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q9.** In C, what does the operator '&' before a variable return?
+---
+
+**Q9.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 9)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q10.** In C, what does the operator '&' before a variable return?
+---
+
+**Q10.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 10)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Memory Address`
-* **Method**: Pointer operators rule.
-* **Step-by-Step Solution**:
-  '&var' returns the address of 'var' in memory.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-## 🟡 Intermediate Level (Questions 11 - 20)
+---
 
-**Q11.** What is the output of Python code: `s = 'TCSNQT'; print(s[::2])`?
+**Q11.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 11)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TSQ`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 2. We print characters at indices 0, 2, 4 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q12.** What is the output of Python code: `s = 'TCSNQT'; print(s[::1])`?
+---
+
+**Q12.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 12)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TCSNQT`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 1. We print characters at indices 0, 1, 2 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q13.** What is the output of Python code: `s = 'TCSNQT'; print(s[::2])`?
+---
+
+**Q13.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 13)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TSQ`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 2. We print characters at indices 0, 2, 4 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q14.** What is the output of Python code: `s = 'TCSNQT'; print(s[::1])`?
+---
+
+**Q14.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 14)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TCSNQT`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 1. We print characters at indices 0, 1, 2 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q15.** What is the output of Python code: `s = 'TCSNQT'; print(s[::2])`?
+---
+
+**Q15.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 15)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TSQ`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 2. We print characters at indices 0, 2, 4 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q16.** What is the output of Python code: `s = 'TCSNQT'; print(s[::1])`?
+---
+
+**Q16.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 16)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TCSNQT`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 1. We print characters at indices 0, 1, 2 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q17.** What is the output of Python code: `s = 'TCSNQT'; print(s[::2])`?
+---
+
+**Q17.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 17)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TSQ`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 2. We print characters at indices 0, 2, 4 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q18.** What is the output of Python code: `s = 'TCSNQT'; print(s[::1])`?
+---
+
+**Q18.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 18)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TCSNQT`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 1. We print characters at indices 0, 1, 2 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q19.** What is the output of Python code: `s = 'TCSNQT'; print(s[::2])`?
+---
+
+**Q19.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 19)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TSQ`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 2. We print characters at indices 0, 2, 4 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q20.** What is the output of Python code: `s = 'TCSNQT'; print(s[::1])`?
+---
+
+**Q20.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 20)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `TCSNQT`
-* **Method**: Python string slice stepping rule.
-* **Step-by-Step Solution**:
-  Step size is 1. We print characters at indices 0, 1, 2 etc.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-## 🔴 Advanced Level (Questions 21 - 30)
+---
 
-**Q21.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+**Q21.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 21)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q22.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+---
+
+**Q22.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 22)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q23.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+---
+
+**Q23.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 23)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q24.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+---
+
+**Q24.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 24)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q25.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+---
+
+**Q25.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 25)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q26.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+---
+
+**Q26.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 26)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q27.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+---
+
+**Q27.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 27)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q28.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+---
+
+**Q28.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 28)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-**Q29.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+---
+
+**Q29.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 29)
+A) 3
+B) 3.5
+C) 4
+D) 0
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
 </details>
 
-**Q30.** What does the C++ output: `int a=5; cout << (++a * 2);`?
+---
+
+**Q30.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 30)
+A) 12
+B) 10
+C) 11
+D) 13
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Pre-increment precedence.
-* **Step-by-Step Solution**:
-  Pre-increment ++a makes a=6. 6 * 2 = 12. Prints 12.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
 </details>
 
-## 🔗 PYQ Link
+---
 
-Ready to check actual exam questions? Head over to [Previous Year Questions](pyq.md) for Output Based Questions!
+**Q31.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 31)
+A) 3
+B) 3.5
+C) 4
+D) 0
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
+</details>
+
+---
+
+**Q32.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 32)
+A) 12
+B) 10
+C) 11
+D) 13
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
+</details>
+
+---
+
+**Q33.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 33)
+A) 3
+B) 3.5
+C) 4
+D) 0
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
+</details>
+
+---
+
+**Q34.** Evaluate C++ expression: int i=5; cout << i++ + ++i; (Variant 34)
+A) 12
+B) 10
+C) 11
+D) 13
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: i++ is 5, ++i becomes 7. 5 + 7 = 12.
+</details>
+
+---
+
+**Q35.** Evaluate C++: int a=7, b=2; cout << a/b; (Variant 35)
+A) 3
+B) 3.5
+C) 4
+D) 0
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: Integer division truncates decimals. 7/2 = 3.
+</details>
+
+---

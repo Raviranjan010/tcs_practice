@@ -1,343 +1,495 @@
-# 📝 Graded Practice Questions: Pseudo Code
+# 📝 Pseudo Code - Practice Questions
 
-This practice sheet contains 30+ graded questions categorized into **Beginner**, **Intermediate**, and **Advanced** levels to build step-by-step competency.
+Attempt these 35 unique practice questions to master concepts.
 
-## 🟢 Beginner Level (Questions 1 - 10)
+## Questions
 
-**Q1.** Evaluate the pseudocode: x = 1, y = 2. x = x + y. print x.
+**Q1.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 1)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `3`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 1. Adding 2 gives 3.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q2.** Evaluate the pseudocode: x = 2, y = 2. x = x + y. print x.
+---
+
+**Q2.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 2)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `4`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 2. Adding 2 gives 4.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q3.** Evaluate the pseudocode: x = 3, y = 2. x = x + y. print x.
+---
+
+**Q3.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 3)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 3. Adding 2 gives 5.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q4.** Evaluate the pseudocode: x = 4, y = 2. x = x + y. print x.
+---
+
+**Q4.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 4)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `6`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 4. Adding 2 gives 6.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q5.** Evaluate the pseudocode: x = 5, y = 2. x = x + y. print x.
+---
+
+**Q5.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 5)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `7`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 5. Adding 2 gives 7.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q6.** Evaluate the pseudocode: x = 6, y = 2. x = x + y. print x.
+---
+
+**Q6.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 6)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `8`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 6. Adding 2 gives 8.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q7.** Evaluate the pseudocode: x = 7, y = 2. x = x + y. print x.
+---
+
+**Q7.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 7)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `9`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 7. Adding 2 gives 9.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q8.** Evaluate the pseudocode: x = 8, y = 2. x = x + y. print x.
+---
+
+**Q8.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 8)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `10`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 8. Adding 2 gives 10.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q9.** Evaluate the pseudocode: x = 9, y = 2. x = x + y. print x.
+---
+
+**Q9.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 9)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `11`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 9. Adding 2 gives 11.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q10.** Evaluate the pseudocode: x = 10, y = 2. x = x + y. print x.
+---
+
+**Q10.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 10)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `12`
-* **Method**: Basic trace.
-* **Step-by-Step Solution**:
-  x starts at 10. Adding 2 gives 12.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-## 🟡 Intermediate Level (Questions 11 - 20)
+---
 
-**Q11.** Evaluate: a = 22, b = 3. a = a & b. print a.
+**Q11.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 11)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `2`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  22 is 0b10110 in binary. 3 is 0b11 in binary. 22 & 3 = 2.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q12.** Evaluate: a = 24, b = 3. a = a & b. print a.
+---
+
+**Q12.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 12)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `0`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  24 is 0b11000 in binary. 3 is 0b11 in binary. 24 & 3 = 0.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q13.** Evaluate: a = 26, b = 3. a = a & b. print a.
+---
+
+**Q13.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 13)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `2`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  26 is 0b11010 in binary. 3 is 0b11 in binary. 26 & 3 = 2.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q14.** Evaluate: a = 28, b = 3. a = a & b. print a.
+---
+
+**Q14.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 14)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `0`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  28 is 0b11100 in binary. 3 is 0b11 in binary. 28 & 3 = 0.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q15.** Evaluate: a = 30, b = 3. a = a & b. print a.
+---
+
+**Q15.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 15)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `2`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  30 is 0b11110 in binary. 3 is 0b11 in binary. 30 & 3 = 2.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q16.** Evaluate: a = 32, b = 3. a = a & b. print a.
+---
+
+**Q16.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 16)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `0`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  32 is 0b100000 in binary. 3 is 0b11 in binary. 32 & 3 = 0.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q17.** Evaluate: a = 34, b = 3. a = a & b. print a.
+---
+
+**Q17.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 17)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `2`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  34 is 0b100010 in binary. 3 is 0b11 in binary. 34 & 3 = 2.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q18.** Evaluate: a = 36, b = 3. a = a & b. print a.
+---
+
+**Q18.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 18)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `0`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  36 is 0b100100 in binary. 3 is 0b11 in binary. 36 & 3 = 0.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q19.** Evaluate: a = 38, b = 3. a = a & b. print a.
+---
+
+**Q19.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 19)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `2`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  38 is 0b100110 in binary. 3 is 0b11 in binary. 38 & 3 = 2.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q20.** Evaluate: a = 40, b = 3. a = a & b. print a.
+---
+
+**Q20.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 20)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `0`
-* **Method**: Convert to binary and perform bitwise AND.
-* **Step-by-Step Solution**:
-  40 is 0b101000 in binary. 3 is 0b11 in binary. 40 & 3 = 0.
-* **Target Time**: 25 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-## 🔴 Advanced Level (Questions 21 - 30)
+---
 
-**Q21.** Trace: a = 21, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+**Q21.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 21)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q22.** Trace: a = 22, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+---
+
+**Q22.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 22)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q23.** Trace: a = 23, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+---
+
+**Q23.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 23)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q24.** Trace: a = 24, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+---
+
+**Q24.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 24)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q25.** Trace: a = 25, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+---
+
+**Q25.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 25)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q26.** Trace: a = 26, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+---
+
+**Q26.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 26)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q27.** Trace: a = 27, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+---
+
+**Q27.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 27)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q28.** Trace: a = 28, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+---
+
+**Q28.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 28)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-**Q29.** Trace: a = 29, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+---
+
+**Q29.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 29)
+A) 10
+B) 5
+C) 2
+D) 15
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
 </details>
 
-**Q30.** Trace: a = 30, b = 5. a = a ^ b. b = a ^ b. a = a ^ b. print a.
+---
+
+**Q30.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 30)
+A) 20
+B) 16
+C) 12
+D) 8
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `5`
-* **Method**: Identify XOR swap.
-* **Step-by-Step Solution**:
-  This is a swap pattern. Value of a is swapped with b. So new value of a is old value of b (5).
-* **Target Time**: 30 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
 </details>
 
-## 🔗 PYQ Link
+---
 
-Ready to check actual exam questions? Head over to [Previous Year Questions](pyq.md) for Pseudo Code!
+**Q31.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 31)
+A) 10
+B) 5
+C) 2
+D) 15
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
+</details>
+
+---
+
+**Q32.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 32)
+A) 20
+B) 16
+C) 12
+D) 8
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
+</details>
+
+---
+
+**Q33.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 33)
+A) 10
+B) 5
+C) 2
+D) 15
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
+</details>
+
+---
+
+**Q34.** Evaluate: Integer a=8, b=12. a = a & b. b = b | a. print a+b. (Variant 34)
+A) 20
+B) 16
+C) 12
+D) 8
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: a = 8 & 12 = 8. b = 12 | 8 = 12. Sum = 8 + 12 = 20.
+</details>
+
+---
+
+**Q35.** Evaluate: Integer x=5. x = x << 1. print x. (Variant 35)
+A) 10
+B) 5
+C) 2
+D) 15
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: x << 1 multiplies x by 2. 5 * 2 = 10.
+</details>
+
+---

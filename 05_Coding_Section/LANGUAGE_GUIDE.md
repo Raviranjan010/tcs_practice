@@ -1,24 +1,33 @@
-# 💻 Compiler Choice: Which Language to Pick for TCS NQT?
+# 💻 Compiler Choice: Why C++17 is the Standard for TCS NQT?
 
-TCS NQT compiler supports **C, C++, Java, Python, and SD (Software Development)** environments. Here is a breakdown to help you choose the best fit for your coding round.
-
----
-
-## 📊 Language Comparison Table
-
-| Language | Pros | Cons | Ideal For | Recommendation |
-| :--- | :--- | :--- | :--- | :--- |
-| **C++ (STL)** | Extremely fast execution, rich library (STL vectors, maps, stacks), low memory overhead. | Manual memory management, verbose syntax for some manipulations. | Prime & Digital DSA questions (Trees, Graphs, DP). | ⭐⭐⭐⭐⭐ (Best overall for speed & memory limits) |
-| **Python** | Rapid prototyping, concise syntax, clean string slicing, in-built arbitrary precision integers. | Slower execution speed (may exceed time limits for $O(N^2)$ solutions). | Ninja coding, quick string manipulations, math-heavy problems. | ⭐⭐⭐⭐ (Great for fast coding but risky for slow algorithms) |
-| **Java** | Strong collection framework, memory safe, similar speed to C++. | Highly verbose syntax, boilerplate code (takes longer to write). | Enterprise developers, graduates already fluent in Java. | ⭐⭐⭐ (Good if you have strong prior practice) |
-| **C** | Deep memory layout control. | No STL, manual hash map and stack structures must be coded from scratch. | Low-level execution. | ⭐ (Avoid unless you have no choice) |
+The TCS NQT coding round is hosted on the TCS iON compiler, which uses GCC 9.3 (supporting C++17). C++ is the most recommended language for NQT due to its performance, STL containers, and strict time limits.
 
 ---
 
-## ⚠️ TCS Compiler Traps & Tips
+## 📊 Why Choose C++17?
 
-1. **Standard I/O Parsing**: Read input using standard lines:
-   - *Python*: `sys.stdin.read().split()` to handle multiple lines or spaces.
-   - *C++*: Use `cin >> val` or `getline(cin, str)` and add `ios_base::sync_with_stdio(false); cin.tie(NULL);` to avoid I/O bottlenecks.
-2. **Time Limit Exceeded (TLE)**: TCS compiler usually runs on restricted containers. A C++ solution that executes in 0.1s might take 1.2s in Python, failing the test case. **Always optimize your time complexities**.
-3. **Partial Marks**: TCS NQT awards marks based on the number of private test cases passed. Write a brute force solution first if you are struggling with the optimal approach.
+| Feature | Details | TCS iON Advantages |
+| :--- | :--- | :--- |
+| **Execution Speed** | C++ compiles to machine code directly, executing in under 0.1s. | Eliminates Time Limit Exceeded (TLE) errors common in interpreted languages. |
+| **STL Container** | In-built `vector`, `unordered_map`, `stack`, `queue`, `priority_queue`. | Allows writing complex graphs, trees, and DP algorithms in under 30 lines. |
+| **Memory Control** | Low overhead and zero virtual machine startup time. | Stays well within the strict 256MB memory limit. |
+
+---
+
+## ⚠️ C++ NQT Compiler Traps & Tips
+
+1. **Fast I/O Bottlenecks**:
+   The TCS iON compiler processes large input files. To avoid I/O bottlenecks, always add the following lines at the start of your `int main()`:
+   ```cpp
+   ios_base::sync_with_stdio(false);
+   cin.tie(NULL);
+   ```
+
+2. **Console Input Parsing**:
+   TCS inputs may contain trailing carriage returns (`\r\n`). When using `getline(cin, str)`, verify that you trim trailing carriage returns if parsing fails.
+
+3. **Time Limit Exceeded (TLE)**:
+   Avoid nested loops yielding $O(N^2)$ complexity unless $N \le 1000$. Use $O(N \log N)$ or $O(N)$ sorting and hash map approaches.
+
+4. **Partial Marks**:
+   TCS NQT awards marks based on the number of private test cases passed. If your optimal solution has bugs, submit your brute force solution first to secure partial marks.

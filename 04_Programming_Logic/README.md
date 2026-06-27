@@ -1,6 +1,6 @@
 # 💻 Programming Logic (TCS NQT Foundation)
 
-This section covers basic flowcharts, pseudocode syntax tracing, output estimation in multiple languages (C, C++, Java, Python), and basic algorithm analysis (time/space complexity).
+This section covers basic flowcharts, pseudocode syntax tracing, C++ output estimation, and basic algorithm analysis (time/space complexity).
 
 ---
 

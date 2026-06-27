@@ -6,7 +6,7 @@ TCS NQT uses a unique pseudocode notation in its programming logic section. This
 
 ## 📝 Syntax Reference Table
 
-| Structure | TCS Notation | Equivalent C / Python |
+| Structure | TCS Notation | Equivalent C++ |
 | :--- | :--- | :--- |
 | **Variable Declaration** | `Integer x, y` | `int x, y;` |
 | **Assignment** | `x = 10` | `x = 10;` |

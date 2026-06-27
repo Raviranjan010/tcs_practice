@@ -68,7 +68,7 @@ This roadmap is structured to take you from a complete beginner to exam-ready fo
 *Focus: Master coding logic, data structures, and solve high-frequency TCS coding questions.*
 
 * **Day 41**: [Flowcharts & Pseudo Code](04_Programming_Logic/01_Flowcharts/) and [Algorithms Basics](04_Programming_Logic/04_Algorithms_Basics/)
-* **Day 42**: [Output Based Questions](04_Programming_Logic/03_Output_Based_Questions/) (Tracing outputs in C, C++, Java, and Python)
+* **Day 42**: [Output Based Questions](04_Programming_Logic/03_Output_Based_Questions/) (Tracing outputs in C and C++)
 * **Day 43**: Read [Language Guide](05_Coding_Section/LANGUAGE_GUIDE.md) and start [Arrays](05_Coding_Section/01_Arrays/) (Reversal, duplicates, second largest)
 * **Day 44**: [Strings](05_Coding_Section/02_Strings/) (Palindrome, anagram, frequency count, Caesar cipher)
 * **Day 45**: [Math & Number Theory Coding](05_Coding_Section/09_Math_Number_Theory/) (Prime, Sieve, Fibonacci, Armstrong, GCD/LCM)
@@ -87,16 +87,16 @@ This roadmap is structured to take you from a complete beginner to exam-ready fo
 ### ⏱️ Phase 5: Mock Tests, Interview Prep & Revision (Days 56 – 60)
 *Focus: Test taking under real exam conditions and cracking technical & HR interviews.*
 
-* **Day 56**: Solve [Mock Set 01](05_Coding_Section/FULL_MOCK_SETS/mock_01/) under timed environment.
-* **Day 57**: Solve [Mock Set 02](05_Coding_Section/FULL_MOCK_SETS/mock_02/) and [Mock Set 03](05_Coding_Section/FULL_MOCK_SETS/mock_03/).
+* **Day 56**: Solve [Mock Set 01](05_Coding_Section/FULL_MOCK_SETS/mock_01/) and [Mock Set 04](05_Coding_Section/FULL_MOCK_SETS/mock_04/) under timed environments.
+* **Day 57**: Solve [Mock Set 02](05_Coding_Section/FULL_MOCK_SETS/mock_02/), [Mock Set 03](05_Coding_Section/FULL_MOCK_SETS/mock_03/), and [Mock Sets 05-10](05_Coding_Section/FULL_MOCK_SETS/).
 * **Day 58**: Study [Technical Interview Guide](07_Interview_Prep/Technical_Interview.md) and [Managerial Round Guide](07_Interview_Prep/MR_Round.md).
 * **Day 59**: Prepare HR questions using [HR Questions Guide](07_Interview_Prep/HR_Questions.md) and check [Dos and Don'ts](07_Interview_Prep/DO_DONT.md).
-* **Day 60**: Read the final [Last 7 Days Strategy](08_Quick_Revision/LAST_7_DAYS.md) and [Formula Master Sheet](08_Quick_Revision/FORMULA_MASTER.md). Do a complete run-through of the [Exam Day Checklist](08_Quick_Revision/EXAM_DAY_CHECKLIST.md).
+* **Day 60**: Read the final [Last 7 Days Strategy](08_Quick_Revision/LAST_7_DAYS.md) and [Formula Master Sheet](08_Quick_Revision/FORMULA_MASTER.md). Do a complete run-through of the [Exam Day Checklist](08_Quick_Revision/EXAM_DAY_CHECKLIST.md). Use [Code Templates](10_CPP_Templates/) for rapid syntax checks.
 
 ---
 
 ## 💡 Daily Study Routine (Recommended: 4 Hours)
 1. **Concept Study (1 Hour)**: Study the `notes.md` file of the day's topic. Understand the formulas and Vedic math shortcuts.
 2. **PYQ Review (1 Hour)**: Review the past year questions in `pyq.md`. Practice solving them under 60 seconds.
-3. **Practice (1.5 Hours)**: Attempt the 30 questions in `practice.md`. Grade yourself.
-4. **Vocabulary Bank & Code Trace (0.5 Hour)**: Review 15-20 words in the Vocab Bank and trace one sample coding program's dry run.
+3. **Practice Exercises (1 Hour)**: Solve the 30+ graded questions in `practice.md`. Check answers using the details collapsible tags.
+4. **Hands-on Coding (1 Hour)**: Implement at least 2 coding problems from [05_Coding_Section](05_Coding_Section/README.md) using C++. Pay attention to time and space complexities.

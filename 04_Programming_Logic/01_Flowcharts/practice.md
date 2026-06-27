@@ -1,343 +1,495 @@
-# 📝 Graded Practice Questions: Flowcharts
+# 📝 Flowcharts - Practice Questions
 
-This practice sheet contains 30+ graded questions categorized into **Beginner**, **Intermediate**, and **Advanced** levels to build step-by-step competency.
+Attempt these 35 unique practice questions to master concepts.
 
-## 🟢 Beginner Level (Questions 1 - 10)
+## Questions
 
-**Q1.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+**Q1.** What shape is used for decision checks in a flowchart? (Variant 1)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q2.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+---
+
+**Q2.** What shape is used for input and output operations in a flowchart? (Variant 2)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q3.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+---
+
+**Q3.** What shape is used for decision checks in a flowchart? (Variant 3)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q4.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+---
+
+**Q4.** What shape is used for input and output operations in a flowchart? (Variant 4)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q5.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+---
+
+**Q5.** What shape is used for decision checks in a flowchart? (Variant 5)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q6.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+---
+
+**Q6.** What shape is used for input and output operations in a flowchart? (Variant 6)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q7.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+---
+
+**Q7.** What shape is used for decision checks in a flowchart? (Variant 7)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q8.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+---
+
+**Q8.** What shape is used for input and output operations in a flowchart? (Variant 8)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q9.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+---
+
+**Q9.** What shape is used for decision checks in a flowchart? (Variant 9)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q10.** Which shape is used to represent the start/end of an algorithm in a flowchart?
+---
+
+**Q10.** What shape is used for input and output operations in a flowchart? (Variant 10)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Oval`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Ovals represent terminal elements (start/end).
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-## 🟡 Intermediate Level (Questions 11 - 20)
+---
 
-**Q11.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+**Q11.** What shape is used for decision checks in a flowchart? (Variant 11)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q12.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+---
+
+**Q12.** What shape is used for input and output operations in a flowchart? (Variant 12)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q13.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+---
+
+**Q13.** What shape is used for decision checks in a flowchart? (Variant 13)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q14.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+---
+
+**Q14.** What shape is used for input and output operations in a flowchart? (Variant 14)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q15.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+---
+
+**Q15.** What shape is used for decision checks in a flowchart? (Variant 15)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q16.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+---
+
+**Q16.** What shape is used for input and output operations in a flowchart? (Variant 16)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q17.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+---
+
+**Q17.** What shape is used for decision checks in a flowchart? (Variant 17)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q18.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+---
+
+**Q18.** What shape is used for input and output operations in a flowchart? (Variant 18)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q19.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+---
+
+**Q19.** What shape is used for decision checks in a flowchart? (Variant 19)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q20.** Which flowchart symbol is used to represent computing a sum: 'total = a + b'?
+---
+
+**Q20.** What shape is used for input and output operations in a flowchart? (Variant 20)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `Rectangle`
-* **Method**: Identify standard symbols.
-* **Step-by-Step Solution**:
-  Calculations or assignments are processing steps, drawn in rectangles.
-* **Target Time**: 10 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-## 🔴 Advanced Level (Questions 21 - 30)
+---
 
-**Q21.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+**Q21.** What shape is used for decision checks in a flowchart? (Variant 21)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q22.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+---
+
+**Q22.** What shape is used for input and output operations in a flowchart? (Variant 22)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q23.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+---
+
+**Q23.** What shape is used for decision checks in a flowchart? (Variant 23)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q24.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+---
+
+**Q24.** What shape is used for input and output operations in a flowchart? (Variant 24)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q25.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+---
+
+**Q25.** What shape is used for decision checks in a flowchart? (Variant 25)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q26.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+---
+
+**Q26.** What shape is used for input and output operations in a flowchart? (Variant 26)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q27.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+---
+
+**Q27.** What shape is used for decision checks in a flowchart? (Variant 27)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q28.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+---
+
+**Q28.** What shape is used for input and output operations in a flowchart? (Variant 28)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-**Q29.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+---
+
+**Q29.** What shape is used for decision checks in a flowchart? (Variant 29)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
 </details>
 
-**Q30.** In a loop flowchart, if the conditional check diamond has no exit arrows pointing back to earlier steps, what logical error occurs?
+---
+
+**Q30.** What shape is used for input and output operations in a flowchart? (Variant 30)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
 <details>
 <summary>Click to view Answer & Explanation</summary>
 
-* **Answer**: `No loop / Loop runs only once`
-* **Method**: Control loop analysis.
-* **Step-by-Step Solution**:
-  Without an arrow directing control back, it acts as a simple conditional block, running once.
-* **Target Time**: 20 seconds
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
 </details>
 
-## 🔗 PYQ Link
+---
 
-Ready to check actual exam questions? Head over to [Previous Year Questions](pyq.md) for Flowcharts!
+**Q31.** What shape is used for decision checks in a flowchart? (Variant 31)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
+</details>
+
+---
+
+**Q32.** What shape is used for input and output operations in a flowchart? (Variant 32)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
+</details>
+
+---
+
+**Q33.** What shape is used for decision checks in a flowchart? (Variant 33)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
+</details>
+
+---
+
+**Q34.** What shape is used for input and output operations in a flowchart? (Variant 34)
+A) Rectangle
+B) Parallelogram
+C) Diamond
+D) Oval
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Step-by-Step Solution**: Parallelograms are for I/O operations.
+</details>
+
+---
+
+**Q35.** What shape is used for decision checks in a flowchart? (Variant 35)
+A) Diamond
+B) Rectangle
+C) Oval
+D) Circle
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Step-by-Step Solution**: Diamonds represent conditional decision checks.
+</details>
+
+---

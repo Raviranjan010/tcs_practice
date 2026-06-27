@@ -2,6 +2,8 @@
 
 Welcome to the **Ultimate TCS NQT (National Qualifier Test) Preparation Repository**. This repository is a production-quality, comprehensive, and deeply structured study hub designed for students and graduates aiming to crack the TCS NQT and secure a role in the **Ninja (3.36 LPA)**, **Digital (7.0 LPA)**, or **Prime (9.0+ LPA)** categories.
 
+> 🚨 **ABSOLUTE LANGUAGE RULE**: The ONLY programming language used in this entire repository is C++ (specifically C++17 targeting GCC 9.3 for the TCS iON compiler). All solutions, templates, and coding worksheets are written in C++.
+
 ---
 
 ## 🗺️ Master Navigation Hub
@@ -14,11 +16,16 @@ Welcome to the **Ultimate TCS NQT (National Qualifier Test) Preparation Reposito
 | 💬 [02. Verbal Ability](02_Verbal_Ability/README.md) | 6 Grammatical & Reading Comprehension Topics + Vocab Bank | Grammar & Comprehension |
 | 🧠 [03. Reasoning Ability](03_Reasoning_Ability/README.md) | 8 Analytical & Logical Reasoning Topics + Short Tricks | Logic & Aptitude |
 | 💻 [04. Programming Logic](04_Programming_Logic/README.md) | Pseudocode, Flowcharts, Output MCQs & Core Patterns | Programming Basics |
-| ⚡ [05. Coding Section](05_Coding_Section/README.md) | 12 DSA Topics, High Probability Qs & Mock Sets | Hands-on DSA |
+| ⚡ [05. Coding Section](05_Coding_Section/README.md) | 12 DSA Topics, High Probability Qs & Mock Sets (C++ Only) | Hands-on DSA |
 | 📈 [06. Advanced Quantitative](06_Advanced_Quantitative/README.md) | Advanced Number Theory, Advanced Probability & DI | Digital/Prime Cutoff |
 | 🤝 [07. Interview Prep](07_Interview_Prep/README.md) | HR, Technical & Managerial Rounds Guide + Dos/Don'ts | Final Selection |
 | ⏱️ [08. Quick Revision](08_Quick_Revision/README.md) | Last 7 days strategy, Formula Master & Exam Day Checklist | Last-Minute Tips |
 | 🎯 [09. TCS NQT Specific](09_TCS_NQT_Specific/README.md) | Tricks, proprietary pseudocode guide, 300 MCQs, 800 Aptitude Qs | Exam Specifics |
+| 🚀 [10. Code Templates](10_CPP_Templates/) | Standard C++ starter codes for DSA and STL | Rapid Coding |
+| 📚 [11. Past Papers](11_Previous_Year_Papers/) | Reconstructed past NQT papers (2020-2024) with keys | Past Year Review |
+| 🏆 [12. Test Series](12_Topic_Wise_Test_Series/) | 20 timed topic-wise test sheets with C++ solutions | Test Simulation |
+| 📥 [iON Input Templates](05_Coding_Section/TCS_CPP_INPUT_GUIDE.md) | Standard C++ templates for reading input streams | Platform Readiness |
+| ⏱️ [Complexity Chart](05_Coding_Section/COMPLEXITY_CHEAT_SHEET.md) | N-value threshold complexity decision guides | Optimizations |
 
 ---
 
@@ -28,22 +35,22 @@ TCS recruits for three distinct packages based on your NQT performance:
 
 1. **Ninja Category (3.36 LPA)**
    - **Focus**: Basic Aptitude, Verbal, Reasoning, and Foundation Programming.
-   - **Coding Requirement**: Basic understanding of syntax, loops, arrays, and strings. Solving at least one basic/partial coding question.
+   - **Coding Requirement**: Basic understanding of C++ syntax, loops, vectors, and strings. Solving at least one basic/partial coding question.
 
 2. **Digital Category (7.0 LPA)**
    - **Focus**: Strong Advanced Quantitative Aptitude, Logic, and Data Interpretation.
-   - **Coding Requirement**: Proficient in Arrays, Strings, Hashing, and Basic DSA. Solving one complete coding problem and partial of the second.
+   - **Coding Requirement**: Proficient in C++ Vectors, Strings, Hashing, and Basic DSA. Solving one complete coding problem and partial of the second.
 
 3. **Prime Category (9.0 - 11.0 LPA)**
    - **Focus**: Outstanding DSA, Advanced Maths, and System design/logical programming.
-   - **Coding Requirement**: Deep understanding of Trees, Dynamic Programming, Graphs, Stack/Queues. Solving both coding problems optimally.
+   - **Coding Requirement**: Deep understanding of Trees, Dynamic Programming, Graphs, Stack/Queues. Solving both coding problems optimally in C++17.
 
 ---
 
 ## 📋 Repository Structure Guidelines
 
 Every folder in this repository follows a consistent, educational design pattern:
-* **`notes.md`**: Contains a 10th-grade definition, complete formula tables, 3 worked examples, common pitfalls, shortcuts/Vedic tricks, and relationships to other topics.
+* **`notes.md`**: Contains a 10th-grade definition, complete formula tables, 3 worked examples, common pitfalls, shortcuts/Vedic tricks, and relationships to other topics (using C++ only).
 * **`pyq.md`**: Past year questions categorized by Year, Difficulty (Easy/Medium/Hard), and TCS Role. Each includes explanations and a <60-second trick.
 * **`practice.md`**: 30+ graded questions (10 Beginner, 10 Intermediate, 10 Advanced) with collapsible answers (`<details>`).
 
@@ -57,8 +64,8 @@ Every folder in this repository follows a consistent, educational design pattern
    - Read the concept definition & shortcuts in `notes.md`.
    - Practice the previous year questions in `pyq.md`.
    - Attempt the 30+ graded questions in `practice.md`.
-4. **Master the Coding Section**: Focus heavily on [05_Coding_Section](05_Coding_Section/README.md). Practice writing clean, optimal code.
+4. **Master the Coding Section**: Focus heavily on [05_Coding_Section](05_Coding_Section/README.md). Practice writing clean, optimal C++ code.
 5. **Simulate Mock Tests**: Take the full mock sets under timed conditions.
 6. **Revise**: Use the [08_Quick_Revision](08_Quick_Revision/README.md) section in the final week.
 
-*All code samples are provided with clean, runnable Python solutions and C++ alternatives with step-by-step complexity traces.*
+*All code samples are provided with clean, runnable C++ solutions with step-by-step complexity traces.*

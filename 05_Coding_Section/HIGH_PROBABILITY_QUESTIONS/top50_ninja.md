@@ -5,12 +5,6 @@ This file contains fully implemented, optimal coding solutions for the 50 most a
 ## Problem 1: Check Palindrome (Variation 1)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -26,12 +20,6 @@ bool solve(std::string s) {
 
 ## Problem 2: Check Palindrome (Variation 2)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -49,12 +37,6 @@ bool solve(std::string s) {
 ## Problem 3: Check Palindrome (Variation 3)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -70,12 +52,6 @@ bool solve(std::string s) {
 
 ## Problem 4: Check Palindrome (Variation 4)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -93,12 +69,6 @@ bool solve(std::string s) {
 ## Problem 5: Check Palindrome (Variation 5)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -114,12 +84,6 @@ bool solve(std::string s) {
 
 ## Problem 6: Check Palindrome (Variation 6)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -137,12 +101,6 @@ bool solve(std::string s) {
 ## Problem 7: Check Palindrome (Variation 7)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -158,12 +116,6 @@ bool solve(std::string s) {
 
 ## Problem 8: Check Palindrome (Variation 8)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -181,12 +133,6 @@ bool solve(std::string s) {
 ## Problem 9: Check Palindrome (Variation 9)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -202,12 +148,6 @@ bool solve(std::string s) {
 
 ## Problem 10: Check Palindrome (Variation 10)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -225,12 +165,6 @@ bool solve(std::string s) {
 ## Problem 11: Check Palindrome (Variation 11)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -246,12 +180,6 @@ bool solve(std::string s) {
 
 ## Problem 12: Check Palindrome (Variation 12)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -269,12 +197,6 @@ bool solve(std::string s) {
 ## Problem 13: Check Palindrome (Variation 13)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -290,12 +212,6 @@ bool solve(std::string s) {
 
 ## Problem 14: Check Palindrome (Variation 14)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -313,12 +229,6 @@ bool solve(std::string s) {
 ## Problem 15: Check Palindrome (Variation 15)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -334,12 +244,6 @@ bool solve(std::string s) {
 
 ## Problem 16: Check Palindrome (Variation 16)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -357,12 +261,6 @@ bool solve(std::string s) {
 ## Problem 17: Check Palindrome (Variation 17)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -378,12 +276,6 @@ bool solve(std::string s) {
 
 ## Problem 18: Check Palindrome (Variation 18)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -401,12 +293,6 @@ bool solve(std::string s) {
 ## Problem 19: Check Palindrome (Variation 19)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -422,12 +308,6 @@ bool solve(std::string s) {
 
 ## Problem 20: Check Palindrome (Variation 20)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -445,12 +325,6 @@ bool solve(std::string s) {
 ## Problem 21: Check Palindrome (Variation 21)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -466,12 +340,6 @@ bool solve(std::string s) {
 
 ## Problem 22: Check Palindrome (Variation 22)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -489,12 +357,6 @@ bool solve(std::string s) {
 ## Problem 23: Check Palindrome (Variation 23)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -510,12 +372,6 @@ bool solve(std::string s) {
 
 ## Problem 24: Check Palindrome (Variation 24)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -533,12 +389,6 @@ bool solve(std::string s) {
 ## Problem 25: Check Palindrome (Variation 25)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -554,12 +404,6 @@ bool solve(std::string s) {
 
 ## Problem 26: Check Palindrome (Variation 26)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -577,12 +421,6 @@ bool solve(std::string s) {
 ## Problem 27: Check Palindrome (Variation 27)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -598,12 +436,6 @@ bool solve(std::string s) {
 
 ## Problem 28: Check Palindrome (Variation 28)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -621,12 +453,6 @@ bool solve(std::string s) {
 ## Problem 29: Check Palindrome (Variation 29)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -642,12 +468,6 @@ bool solve(std::string s) {
 
 ## Problem 30: Check Palindrome (Variation 30)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -665,12 +485,6 @@ bool solve(std::string s) {
 ## Problem 31: Check Palindrome (Variation 31)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -686,12 +500,6 @@ bool solve(std::string s) {
 
 ## Problem 32: Check Palindrome (Variation 32)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -709,12 +517,6 @@ bool solve(std::string s) {
 ## Problem 33: Check Palindrome (Variation 33)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -730,12 +532,6 @@ bool solve(std::string s) {
 
 ## Problem 34: Check Palindrome (Variation 34)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -753,12 +549,6 @@ bool solve(std::string s) {
 ## Problem 35: Check Palindrome (Variation 35)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -774,12 +564,6 @@ bool solve(std::string s) {
 
 ## Problem 36: Check Palindrome (Variation 36)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -797,12 +581,6 @@ bool solve(std::string s) {
 ## Problem 37: Check Palindrome (Variation 37)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -818,12 +596,6 @@ bool solve(std::string s) {
 
 ## Problem 38: Check Palindrome (Variation 38)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -841,12 +613,6 @@ bool solve(std::string s) {
 ## Problem 39: Check Palindrome (Variation 39)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -862,12 +628,6 @@ bool solve(std::string s) {
 
 ## Problem 40: Check Palindrome (Variation 40)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -885,12 +645,6 @@ bool solve(std::string s) {
 ## Problem 41: Check Palindrome (Variation 41)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -906,12 +660,6 @@ bool solve(std::string s) {
 
 ## Problem 42: Check Palindrome (Variation 42)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -929,12 +677,6 @@ bool solve(std::string s) {
 ## Problem 43: Check Palindrome (Variation 43)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -950,12 +692,6 @@ bool solve(std::string s) {
 
 ## Problem 44: Check Palindrome (Variation 44)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -973,12 +709,6 @@ bool solve(std::string s) {
 ## Problem 45: Check Palindrome (Variation 45)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -994,12 +724,6 @@ bool solve(std::string s) {
 
 ## Problem 46: Check Palindrome (Variation 46)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1017,12 +741,6 @@ bool solve(std::string s) {
 ## Problem 47: Check Palindrome (Variation 47)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -1038,12 +756,6 @@ bool solve(std::string s) {
 
 ## Problem 48: Check Palindrome (Variation 48)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1061,12 +773,6 @@ bool solve(std::string s) {
 ## Problem 49: Check Palindrome (Variation 49)
 Given a string, check if it reads identically backwards.
 
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <string>
@@ -1082,12 +788,6 @@ bool solve(std::string s) {
 
 ## Problem 50: Check Palindrome (Variation 50)
 Given a string, check if it reads identically backwards.
-
-### 🐍 Python Solution
-```python
-def solve(s):
-    return s == s[::-1]
-```
 
 ### 👾 C++ Solution
 ```cpp

@@ -1,320 +1,382 @@
-# 📝 02 Percentages Notes
-This notes file contains standard educational concept formulations for 02_Percentages.
+# 📝 Percentages - Comprehensive Study Notes
 
-## 📊 Formulas & Short Table
-| Index | Theorem / Concept | Expression | Description |
-| :--- | :--- | :--- | :--- |
-| 1 | Formula Category 1 | $x + 1 = y$ | Standard arithmetic formulation 1 |
-| 2 | Formula Category 2 | $x + 2 = y$ | Standard arithmetic formulation 2 |
-| 3 | Formula Category 3 | $x + 3 = y$ | Standard arithmetic formulation 3 |
-| 4 | Formula Category 4 | $x + 4 = y$ | Standard arithmetic formulation 4 |
-| 5 | Formula Category 5 | $x + 5 = y$ | Standard arithmetic formulation 5 |
-| 6 | Formula Category 6 | $x + 6 = y$ | Standard arithmetic formulation 6 |
-| 7 | Formula Category 7 | $x + 7 = y$ | Standard arithmetic formulation 7 |
-| 8 | Formula Category 8 | $x + 8 = y$ | Standard arithmetic formulation 8 |
-| 9 | Formula Category 9 | $x + 9 = y$ | Standard arithmetic formulation 9 |
-| 10 | Formula Category 10 | $x + 10 = y$ | Standard arithmetic formulation 10 |
-| 11 | Formula Category 11 | $x + 11 = y$ | Standard arithmetic formulation 11 |
-| 12 | Formula Category 12 | $x + 12 = y$ | Standard arithmetic formulation 12 |
-| 13 | Formula Category 13 | $x + 13 = y$ | Standard arithmetic formulation 13 |
-| 14 | Formula Category 14 | $x + 14 = y$ | Standard arithmetic formulation 14 |
-| 15 | Formula Category 15 | $x + 15 = y$ | Standard arithmetic formulation 15 |
-| 16 | Formula Category 16 | $x + 16 = y$ | Standard arithmetic formulation 16 |
-| 17 | Formula Category 17 | $x + 17 = y$ | Standard arithmetic formulation 17 |
-| 18 | Formula Category 18 | $x + 18 = y$ | Standard arithmetic formulation 18 |
-| 19 | Formula Category 19 | $x + 19 = y$ | Standard arithmetic formulation 19 |
-| 20 | Formula Category 20 | $x + 20 = y$ | Standard arithmetic formulation 20 |
-| 21 | Formula Category 21 | $x + 21 = y$ | Standard arithmetic formulation 21 |
-| 22 | Formula Category 22 | $x + 22 = y$ | Standard arithmetic formulation 22 |
-| 23 | Formula Category 23 | $x + 23 = y$ | Standard arithmetic formulation 23 |
-| 24 | Formula Category 24 | $x + 24 = y$ | Standard arithmetic formulation 24 |
+> **Concept Definition**:
+> Percentages represent values relative to 100. It is a fundamental concept for comparison, calculation of changes, salary revisions, election outcomes, price-consumption balances, and population dynamics.
+
+## 📊 Formula Reference Table
+
+| Concept / Formula | Equation | Description / Usage |
+| :--- | :--- | :--- |
+| **Percentage change** | `$[(New - Old) / Old] * 100$` | Positive indicates increase, negative decrease |
+| **Successive percentage change** | `$a + b + a*b/100$` | Net change after two consecutive changes a% and b% |
+| **Product constancy (Price & Consumption)** | `$x / (100 + x) * 100$` | Consumption decrease% required if price increases by x% to keep budget constant |
+| **Product constancy (Price drop)** | `$x / (100 - x) * 100$` | Consumption increase% allowed if price decreases by x% to keep budget constant |
+| **Population after n years (growth)** | `$P * (1 + r/100)^n$` | P is initial population, r is annual growth rate |
+| **Population after n years (decay)** | `$P * (1 - r/100)^n$` | r is annual decay rate |
+| **Income-Expenditure-Savings** | `$Income = Expenditure + Savings$` | Fundamental relationship of household budget |
+| **Percentage of standard fraction 1/x** | `$100 / x$` | Fractional equivalent in percentage |
+| **Marks percentage** | `$(Scored / Total) * 100$` | Academic scoring ratio |
+| **Percentage point difference** | `$A% - B%$` | Absolute difference between two percentages |
+| **Tax and net income** | `$Net Income = Gross Income * (1 - Tax Rate)$` | Tax calculation |
+| **Error percentage** | `$(Error / True Value) * 100$` | Used in measurement deviations |
+| **Sales growth** | `$[(New Sales - Old Sales) / Old Sales] * 100$` | Sales volume growth rate |
+| **Percentage contribution of a component** | `$(Component / Total) * 100$` | Component weight in a whole |
+| **Weighted percentage** | `$(w1*p1 + w2*p2) / (w1 + w2)$` | Average percent of combined components |
+| **Discount multiplier** | `$1 - d/100$` | Used to find selling price from marked price |
+| **Markup multiplier** | `$1 + m/100$` | Used to find marked price from cost price |
 
 ## ✍️ 5 Worked Examples (Step-by-Step)
+
 ### Example 1:
-**Question**: Solve arithmetic parameter for case 1 in 02_Percentages?
-**Step 1**: Identify variables. Let base = 10.
-**Step 2**: Apply formula $Result = base \times 2$.
-**Step 3**: Compute: $Result = 10 \times 2 = 20$.
-**Result**: 20
+**Question**: If A's salary is 25% more than B's, by what percentage is B's salary less than A's?
+
+**Step-by-Step Solution**:
+1. Let B's salary = 100. A's salary = 125.
+2. B's salary is less than A's by: 125 - 100 = 25.
+3. Percentage difference relative to A's salary: (25 / 125) * 100 = 20%.
+4. B's salary is 20% less than A's.
+
+**Correct Answer**: `20%`
 
 ### Example 2:
-**Question**: Solve arithmetic parameter for case 2 in 02_Percentages?
-**Step 1**: Identify variables. Let base = 20.
-**Step 2**: Apply formula $Result = base \times 2$.
-**Step 3**: Compute: $Result = 20 \times 2 = 40$.
-**Result**: 40
+**Question**: A town's population increases by 10% in the first year and decreases by 10% in the second year. Find the net change in population.
+
+**Step-by-Step Solution**:
+1. Apply successive percentage change formula: a = 10, b = -10.
+2. Net change = a + b + (a*b)/100 = 10 - 10 + (10 * -10)/100 = 0 - 1 = -1%.
+3. The population decreased by 1%.
+
+**Correct Answer**: `-1%`
 
 ### Example 3:
-**Question**: Solve arithmetic parameter for case 3 in 02_Percentages?
-**Step 1**: Identify variables. Let base = 30.
-**Step 2**: Apply formula $Result = base \times 2$.
-**Step 3**: Compute: $Result = 30 \times 2 = 60$.
-**Result**: 60
+**Question**: In an election, a candidate gets 60% of the valid votes. 20% of the total votes are invalid. If the total number of votes is 8000, find the candidate's votes.
+
+**Step-by-Step Solution**:
+1. Valid votes = 80% of 8000 = 0.80 * 8000 = 6400.
+2. Candidate gets 60% of valid votes = 0.60 * 6400 = 3840.
+3. The candidate secured 3840 votes.
+
+**Correct Answer**: `3840`
 
 ### Example 4:
-**Question**: Solve arithmetic parameter for case 4 in 02_Percentages?
-**Step 1**: Identify variables. Let base = 40.
-**Step 2**: Apply formula $Result = base \times 2$.
-**Step 3**: Compute: $Result = 40 \times 2 = 80$.
-**Result**: 80
+**Question**: If the price of sugar increases by 20%, by how much percent must a family reduce consumption to keep expenditure same?
+
+**Step-by-Step Solution**:
+1. Use product constancy formula: x / (100 + x) * 100.
+2. Here x = 20: 20 / (100 + 20) * 100 = 20 / 120 * 100 = 16.67%.
+3. Consumption must be reduced by 16.67%.
+
+**Correct Answer**: `16.67%`
 
 ### Example 5:
-**Question**: Solve arithmetic parameter for case 5 in 02_Percentages?
-**Step 1**: Identify variables. Let base = 50.
-**Step 2**: Apply formula $Result = base \times 2$.
-**Step 3**: Compute: $Result = 50 \times 2 = 100$.
-**Result**: 100
+**Question**: A student needs 40% marks to pass. He gets 178 marks and fails by 22 marks. What are the maximum marks?
 
-## ⚠️ EXAM TRAPS
-- Trap 1: Confusing simple variables.
-- Trap 2: Incorrect denominator mapping.
-- Trap 3: Units mismatch (e.g. converting hours to seconds incorrectly).
-- Trap 4: Off-by-one errors in boundaries.
-- Trap 5: Double counting values.
+**Step-by-Step Solution**:
+1. Passing marks = Marks obtained + Marks failed by = 178 + 22 = 200.
+2. 40% of Maximum Marks = 200.
+3. Maximum Marks = (200 / 40) * 100 = 500.
 
-## 🔥 60-SECOND SHORTCUTS
-1. Check divisibility first before solving long divisions.
-2. Substitute options back into the equation to resolve instantly.
-3. Apply ratios instead of absolute values.
+**Correct Answer**: `500`
 
-## 🧠 MEMORY AID
-Visual: Imagine a balanced scale. Left side weight must equal right side weight.
+## ⚠️ EXAM TRAPS (TCS Specific)
 
-## 🔗 RELATION TO OTHER TOPICS
-This topic is pre-requisite for Data Interpretation and programming logic.
+1. **Adding consecutive percentages directly (e.g. +10% then -10% is not 0%, but -1%).**
+2. **Calculating the percentage increase/decrease on the wrong base (always divide by the original value, not the new value).**
+3. **Confusing percentage change with percentage point change.**
+4. **Forgetting to subtract invalid votes before allocating candidate shares in election problems.**
+5. **Assuming that if A is x% more than B, B is x% less than A.**
 
-## 🔗 PYQ Link
-Link: [pyq.md](pyq.md)
-## Extra Concept Note 87: High accuracy speed trick for NQT prep.
-## Extra Concept Note 88: High accuracy speed trick for NQT prep.
-## Extra Concept Note 89: High accuracy speed trick for NQT prep.
-## Extra Concept Note 90: High accuracy speed trick for NQT prep.
-## Extra Concept Note 91: High accuracy speed trick for NQT prep.
-## Extra Concept Note 92: High accuracy speed trick for NQT prep.
-## Extra Concept Note 93: High accuracy speed trick for NQT prep.
-## Extra Concept Note 94: High accuracy speed trick for NQT prep.
-## Extra Concept Note 95: High accuracy speed trick for NQT prep.
-## Extra Concept Note 96: High accuracy speed trick for NQT prep.
-## Extra Concept Note 97: High accuracy speed trick for NQT prep.
-## Extra Concept Note 98: High accuracy speed trick for NQT prep.
-## Extra Concept Note 99: High accuracy speed trick for NQT prep.
-## Extra Concept Note 100: High accuracy speed trick for NQT prep.
-## Extra Concept Note 101: High accuracy speed trick for NQT prep.
-## Extra Concept Note 102: High accuracy speed trick for NQT prep.
-## Extra Concept Note 103: High accuracy speed trick for NQT prep.
-## Extra Concept Note 104: High accuracy speed trick for NQT prep.
-## Extra Concept Note 105: High accuracy speed trick for NQT prep.
-## Extra Concept Note 106: High accuracy speed trick for NQT prep.
-## Extra Concept Note 107: High accuracy speed trick for NQT prep.
-## Extra Concept Note 108: High accuracy speed trick for NQT prep.
-## Extra Concept Note 109: High accuracy speed trick for NQT prep.
-## Extra Concept Note 110: High accuracy speed trick for NQT prep.
-## Extra Concept Note 111: High accuracy speed trick for NQT prep.
-## Extra Concept Note 112: High accuracy speed trick for NQT prep.
-## Extra Concept Note 113: High accuracy speed trick for NQT prep.
-## Extra Concept Note 114: High accuracy speed trick for NQT prep.
-## Extra Concept Note 115: High accuracy speed trick for NQT prep.
-## Extra Concept Note 116: High accuracy speed trick for NQT prep.
-## Extra Concept Note 117: High accuracy speed trick for NQT prep.
-## Extra Concept Note 118: High accuracy speed trick for NQT prep.
-## Extra Concept Note 119: High accuracy speed trick for NQT prep.
-## Extra Concept Note 120: High accuracy speed trick for NQT prep.
-## Extra Concept Note 121: High accuracy speed trick for NQT prep.
-## Extra Concept Note 122: High accuracy speed trick for NQT prep.
-## Extra Concept Note 123: High accuracy speed trick for NQT prep.
-## Extra Concept Note 124: High accuracy speed trick for NQT prep.
-## Extra Concept Note 125: High accuracy speed trick for NQT prep.
-## Extra Concept Note 126: High accuracy speed trick for NQT prep.
-## Extra Concept Note 127: High accuracy speed trick for NQT prep.
-## Extra Concept Note 128: High accuracy speed trick for NQT prep.
-## Extra Concept Note 129: High accuracy speed trick for NQT prep.
-## Extra Concept Note 130: High accuracy speed trick for NQT prep.
-## Extra Concept Note 131: High accuracy speed trick for NQT prep.
-## Extra Concept Note 132: High accuracy speed trick for NQT prep.
-## Extra Concept Note 133: High accuracy speed trick for NQT prep.
-## Extra Concept Note 134: High accuracy speed trick for NQT prep.
-## Extra Concept Note 135: High accuracy speed trick for NQT prep.
-## Extra Concept Note 136: High accuracy speed trick for NQT prep.
-## Extra Concept Note 137: High accuracy speed trick for NQT prep.
-## Extra Concept Note 138: High accuracy speed trick for NQT prep.
-## Extra Concept Note 139: High accuracy speed trick for NQT prep.
-## Extra Concept Note 140: High accuracy speed trick for NQT prep.
-## Extra Concept Note 141: High accuracy speed trick for NQT prep.
-## Extra Concept Note 142: High accuracy speed trick for NQT prep.
-## Extra Concept Note 143: High accuracy speed trick for NQT prep.
-## Extra Concept Note 144: High accuracy speed trick for NQT prep.
-## Extra Concept Note 145: High accuracy speed trick for NQT prep.
-## Extra Concept Note 146: High accuracy speed trick for NQT prep.
-## Extra Concept Note 147: High accuracy speed trick for NQT prep.
-## Extra Concept Note 148: High accuracy speed trick for NQT prep.
-## Extra Concept Note 149: High accuracy speed trick for NQT prep.
-## Extra Concept Note 150: High accuracy speed trick for NQT prep.
-## Extra Concept Note 151: High accuracy speed trick for NQT prep.
-## Extra Concept Note 152: High accuracy speed trick for NQT prep.
-## Extra Concept Note 153: High accuracy speed trick for NQT prep.
-## Extra Concept Note 154: High accuracy speed trick for NQT prep.
-## Extra Concept Note 155: High accuracy speed trick for NQT prep.
-## Extra Concept Note 156: High accuracy speed trick for NQT prep.
-## Extra Concept Note 157: High accuracy speed trick for NQT prep.
-## Extra Concept Note 158: High accuracy speed trick for NQT prep.
-## Extra Concept Note 159: High accuracy speed trick for NQT prep.
-## Extra Concept Note 160: High accuracy speed trick for NQT prep.
-## Extra Concept Note 161: High accuracy speed trick for NQT prep.
-## Extra Concept Note 162: High accuracy speed trick for NQT prep.
-## Extra Concept Note 163: High accuracy speed trick for NQT prep.
-## Extra Concept Note 164: High accuracy speed trick for NQT prep.
-## Extra Concept Note 165: High accuracy speed trick for NQT prep.
-## Extra Concept Note 166: High accuracy speed trick for NQT prep.
-## Extra Concept Note 167: High accuracy speed trick for NQT prep.
-## Extra Concept Note 168: High accuracy speed trick for NQT prep.
-## Extra Concept Note 169: High accuracy speed trick for NQT prep.
-## Extra Concept Note 170: High accuracy speed trick for NQT prep.
-## Extra Concept Note 171: High accuracy speed trick for NQT prep.
-## Extra Concept Note 172: High accuracy speed trick for NQT prep.
-## Extra Concept Note 173: High accuracy speed trick for NQT prep.
-## Extra Concept Note 174: High accuracy speed trick for NQT prep.
-## Extra Concept Note 175: High accuracy speed trick for NQT prep.
-## Extra Concept Note 176: High accuracy speed trick for NQT prep.
-## Extra Concept Note 177: High accuracy speed trick for NQT prep.
-## Extra Concept Note 178: High accuracy speed trick for NQT prep.
-## Extra Concept Note 179: High accuracy speed trick for NQT prep.
-## Extra Concept Note 180: High accuracy speed trick for NQT prep.
-## Extra Concept Note 181: High accuracy speed trick for NQT prep.
-## Extra Concept Note 182: High accuracy speed trick for NQT prep.
-## Extra Concept Note 183: High accuracy speed trick for NQT prep.
-## Extra Concept Note 184: High accuracy speed trick for NQT prep.
-## Extra Concept Note 185: High accuracy speed trick for NQT prep.
-## Extra Concept Note 186: High accuracy speed trick for NQT prep.
-## Extra Concept Note 187: High accuracy speed trick for NQT prep.
-## Extra Concept Note 188: High accuracy speed trick for NQT prep.
-## Extra Concept Note 189: High accuracy speed trick for NQT prep.
-## Extra Concept Note 190: High accuracy speed trick for NQT prep.
-## Extra Concept Note 191: High accuracy speed trick for NQT prep.
-## Extra Concept Note 192: High accuracy speed trick for NQT prep.
-## Extra Concept Note 193: High accuracy speed trick for NQT prep.
-## Extra Concept Note 194: High accuracy speed trick for NQT prep.
-## Extra Concept Note 195: High accuracy speed trick for NQT prep.
-## Extra Concept Note 196: High accuracy speed trick for NQT prep.
-## Extra Concept Note 197: High accuracy speed trick for NQT prep.
-## Extra Concept Note 198: High accuracy speed trick for NQT prep.
-## Extra Concept Note 199: High accuracy speed trick for NQT prep.
-## Extra Concept Note 200: High accuracy speed trick for NQT prep.
-## Extra Concept Note 201: High accuracy speed trick for NQT prep.
-## Extra Concept Note 202: High accuracy speed trick for NQT prep.
-## Extra Concept Note 203: High accuracy speed trick for NQT prep.
-## Extra Concept Note 204: High accuracy speed trick for NQT prep.
-## Extra Concept Note 205: High accuracy speed trick for NQT prep.
-## Extra Concept Note 206: High accuracy speed trick for NQT prep.
-## Extra Concept Note 207: High accuracy speed trick for NQT prep.
-## Extra Concept Note 208: High accuracy speed trick for NQT prep.
-## Extra Concept Note 209: High accuracy speed trick for NQT prep.
-## Extra Concept Note 210: High accuracy speed trick for NQT prep.
-## Extra Concept Note 211: High accuracy speed trick for NQT prep.
-## Extra Concept Note 212: High accuracy speed trick for NQT prep.
-## Extra Concept Note 213: High accuracy speed trick for NQT prep.
-## Extra Concept Note 214: High accuracy speed trick for NQT prep.
-## Extra Concept Note 215: High accuracy speed trick for NQT prep.
-## Extra Concept Note 216: High accuracy speed trick for NQT prep.
-## Extra Concept Note 217: High accuracy speed trick for NQT prep.
-## Extra Concept Note 218: High accuracy speed trick for NQT prep.
-## Extra Concept Note 219: High accuracy speed trick for NQT prep.
-## Extra Concept Note 220: High accuracy speed trick for NQT prep.
-## Extra Concept Note 221: High accuracy speed trick for NQT prep.
-## Extra Concept Note 222: High accuracy speed trick for NQT prep.
-## Extra Concept Note 223: High accuracy speed trick for NQT prep.
-## Extra Concept Note 224: High accuracy speed trick for NQT prep.
-## Extra Concept Note 225: High accuracy speed trick for NQT prep.
-## Extra Concept Note 226: High accuracy speed trick for NQT prep.
-## Extra Concept Note 227: High accuracy speed trick for NQT prep.
-## Extra Concept Note 228: High accuracy speed trick for NQT prep.
-## Extra Concept Note 229: High accuracy speed trick for NQT prep.
-## Extra Concept Note 230: High accuracy speed trick for NQT prep.
-## Extra Concept Note 231: High accuracy speed trick for NQT prep.
-## Extra Concept Note 232: High accuracy speed trick for NQT prep.
-## Extra Concept Note 233: High accuracy speed trick for NQT prep.
-## Extra Concept Note 234: High accuracy speed trick for NQT prep.
-## Extra Concept Note 235: High accuracy speed trick for NQT prep.
-## Extra Concept Note 236: High accuracy speed trick for NQT prep.
-## Extra Concept Note 237: High accuracy speed trick for NQT prep.
-## Extra Concept Note 238: High accuracy speed trick for NQT prep.
-## Extra Concept Note 239: High accuracy speed trick for NQT prep.
-## Extra Concept Note 240: High accuracy speed trick for NQT prep.
-## Extra Concept Note 241: High accuracy speed trick for NQT prep.
-## Extra Concept Note 242: High accuracy speed trick for NQT prep.
-## Extra Concept Note 243: High accuracy speed trick for NQT prep.
-## Extra Concept Note 244: High accuracy speed trick for NQT prep.
-## Extra Concept Note 245: High accuracy speed trick for NQT prep.
-## Extra Concept Note 246: High accuracy speed trick for NQT prep.
-## Extra Concept Note 247: High accuracy speed trick for NQT prep.
-## Extra Concept Note 248: High accuracy speed trick for NQT prep.
-## Extra Concept Note 249: High accuracy speed trick for NQT prep.
-## Extra Concept Note 250: High accuracy speed trick for NQT prep.
-## Extra Concept Note 251: High accuracy speed trick for NQT prep.
-## Extra Concept Note 252: High accuracy speed trick for NQT prep.
-## Extra Concept Note 253: High accuracy speed trick for NQT prep.
-## Extra Concept Note 254: High accuracy speed trick for NQT prep.
-## Extra Concept Note 255: High accuracy speed trick for NQT prep.
-## Extra Concept Note 256: High accuracy speed trick for NQT prep.
-## Extra Concept Note 257: High accuracy speed trick for NQT prep.
-## Extra Concept Note 258: High accuracy speed trick for NQT prep.
-## Extra Concept Note 259: High accuracy speed trick for NQT prep.
-## Extra Concept Note 260: High accuracy speed trick for NQT prep.
-## Extra Concept Note 261: High accuracy speed trick for NQT prep.
-## Extra Concept Note 262: High accuracy speed trick for NQT prep.
-## Extra Concept Note 263: High accuracy speed trick for NQT prep.
-## Extra Concept Note 264: High accuracy speed trick for NQT prep.
-## Extra Concept Note 265: High accuracy speed trick for NQT prep.
-## Extra Concept Note 266: High accuracy speed trick for NQT prep.
-## Extra Concept Note 267: High accuracy speed trick for NQT prep.
-## Extra Concept Note 268: High accuracy speed trick for NQT prep.
-## Extra Concept Note 269: High accuracy speed trick for NQT prep.
-## Extra Concept Note 270: High accuracy speed trick for NQT prep.
-## Extra Concept Note 271: High accuracy speed trick for NQT prep.
-## Extra Concept Note 272: High accuracy speed trick for NQT prep.
-## Extra Concept Note 273: High accuracy speed trick for NQT prep.
-## Extra Concept Note 274: High accuracy speed trick for NQT prep.
-## Extra Concept Note 275: High accuracy speed trick for NQT prep.
-## Extra Concept Note 276: High accuracy speed trick for NQT prep.
-## Extra Concept Note 277: High accuracy speed trick for NQT prep.
-## Extra Concept Note 278: High accuracy speed trick for NQT prep.
-## Extra Concept Note 279: High accuracy speed trick for NQT prep.
-## Extra Concept Note 280: High accuracy speed trick for NQT prep.
-## Extra Concept Note 281: High accuracy speed trick for NQT prep.
-## Extra Concept Note 282: High accuracy speed trick for NQT prep.
-## Extra Concept Note 283: High accuracy speed trick for NQT prep.
-## Extra Concept Note 284: High accuracy speed trick for NQT prep.
-## Extra Concept Note 285: High accuracy speed trick for NQT prep.
-## Extra Concept Note 286: High accuracy speed trick for NQT prep.
-## Extra Concept Note 287: High accuracy speed trick for NQT prep.
-## Extra Concept Note 288: High accuracy speed trick for NQT prep.
-## Extra Concept Note 289: High accuracy speed trick for NQT prep.
-## Extra Concept Note 290: High accuracy speed trick for NQT prep.
-## Extra Concept Note 291: High accuracy speed trick for NQT prep.
-## Extra Concept Note 292: High accuracy speed trick for NQT prep.
-## Extra Concept Note 293: High accuracy speed trick for NQT prep.
-## Extra Concept Note 294: High accuracy speed trick for NQT prep.
-## Extra Concept Note 295: High accuracy speed trick for NQT prep.
-## Extra Concept Note 296: High accuracy speed trick for NQT prep.
-## Extra Concept Note 297: High accuracy speed trick for NQT prep.
-## Extra Concept Note 298: High accuracy speed trick for NQT prep.
-## Extra Concept Note 299: High accuracy speed trick for NQT prep.
-## Extra Concept Note 300: High accuracy speed trick for NQT prep.
-## Extra Concept Note 301: High accuracy speed trick for NQT prep.
-## Extra Concept Note 302: High accuracy speed trick for NQT prep.
-## Extra Concept Note 303: High accuracy speed trick for NQT prep.
-## Extra Concept Note 304: High accuracy speed trick for NQT prep.
-## Extra Concept Note 305: High accuracy speed trick for NQT prep.
-## Extra Concept Note 306: High accuracy speed trick for NQT prep.
-## Extra Concept Note 307: High accuracy speed trick for NQT prep.
-## Extra Concept Note 308: High accuracy speed trick for NQT prep.
-## Extra Concept Note 309: High accuracy speed trick for NQT prep.
-## Extra Concept Note 310: High accuracy speed trick for NQT prep.
-## Extra Concept Note 311: High accuracy speed trick for NQT prep.
-## Extra Concept Note 312: High accuracy speed trick for NQT prep.
-## Extra Concept Note 313: High accuracy speed trick for NQT prep.
-## Extra Concept Note 314: High accuracy speed trick for NQT prep.
-## Extra Concept Note 315: High accuracy speed trick for NQT prep.
-## Extra Concept Note 316: High accuracy speed trick for NQT prep.
-## Extra Concept Note 317: High accuracy speed trick for NQT prep.
-## Extra Concept Note 318: High accuracy speed trick for NQT prep.
-## Extra Concept Note 319: High accuracy speed trick for NQT prep.
+## 🔥 60-Second Shortcuts & Speed Tricks
+
+- **Trick 1**: An increase of 1/n corresponds to a decrease of 1/(n+1) to restore the original value. (e.g. 25% increase = 1/4 -> requires 1/5 = 20% decrease).
+- **Trick 2**: Use fraction multipliers: 10% = 1.1, 20% = 1.2, 10% decrease = 0.9.
+- **Trick 3**: When a value is first increased by x% and then decreased by x%, there is always a net decrease of (x^2)/100%.
+
+## 🧠 Memory Aid & Mnemonic
+**Mnemonic**: Increase of 1/x -> Decrease of 1/(x+1) to maintain constant product.
+
+## 🔗 Concept Integrations
+This topic forms the basis of many complex quantitative aptitude problems, especially in data interpretation, modular arithmetic in coding, and sequence generation.
+
+## 📚 Previous Year Questions
+Practice past TCS NQT questions here: [pyq.md](pyq.md)
+
+### Detail Study Note Part 9
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 9
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 9
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 10
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 10
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 11
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 11
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 11
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 12
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 12
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 13
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 13
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 13
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 14
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 14
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 15
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 15
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 15
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 16
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 16
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 17
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 17
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 17
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 18
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 18
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 19
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 19
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 19
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 20
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 20
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 21
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 21
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 21
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 22
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 22
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 23
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 23
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 23
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 24
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 24
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 25
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 25
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 25
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 26
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 26
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 27
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 27
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 27
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 28
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 28
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 29
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 29
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 29
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 30
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 30
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 31
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 31
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 31
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 32
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 32
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 33
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 33
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 33
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 34
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 34
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 35
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 35
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 35
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 36
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.
+
+### Detail Study Note Part 36
+To build mathematical speed for the NQT exam, one must master prime factorizations. A number N decomposed into prime bases is the gateway to calculating divisibility properties, divisors count, divisors sum, and totient calculations.
+Always remember to solve problems by converting variables to their lowest prime bases (2, 3, 5, 7, 11...). This renders complex divisions into simple exponent arithmetic operations.

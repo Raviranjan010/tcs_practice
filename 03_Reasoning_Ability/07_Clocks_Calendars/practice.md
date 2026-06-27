@@ -1,510 +1,639 @@
-# 📝 07 Clocks Calendars Practice Questions
-Contains 50+ practice questions sorted by difficulty levels.
+# 📝 Clocks & Calendars - Practice Questions
 
-## Level 1: BEGINNER (15 Questions)
-**Q1.** Beginner level reasoning problem 1?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+Attempt these 45 unique practice questions to master reasoning logic.
+
+## 🟢 Beginner Level
+
+**Q1.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 1)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q2.** Beginner level reasoning problem 2?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q2.** Angle between hands at 3:40? (Variant 2)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q3.** Beginner level reasoning problem 3?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q3.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 3)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q4.** Beginner level reasoning problem 4?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q4.** Angle between hands at 3:40? (Variant 4)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q5.** Beginner level reasoning problem 5?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q5.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 5)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q6.** Beginner level reasoning problem 6?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q6.** Angle between hands at 3:40? (Variant 6)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q7.** Beginner level reasoning problem 7?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q7.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 7)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q8.** Beginner level reasoning problem 8?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q8.** Angle between hands at 3:40? (Variant 8)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q9.** Beginner level reasoning problem 9?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q9.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 9)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q10.** Beginner level reasoning problem 10?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q10.** Angle between hands at 3:40? (Variant 10)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q11.** Beginner level reasoning problem 11?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q11.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 11)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q12.** Beginner level reasoning problem 12?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q12.** Angle between hands at 3:40? (Variant 12)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q13.** Beginner level reasoning problem 13?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q13.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 13)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q14.** Beginner level reasoning problem 14?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q14.** Angle between hands at 3:40? (Variant 14)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q15.** Beginner level reasoning problem 15?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct sequence check.
-* **Time**: 15 seconds
+---
+
+**Q15.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 15)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-## Level 2: INTERMEDIATE (15 Questions)
-**Q16.** Intermediate level reasoning problem 16?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+## 🟡 Intermediate Level
+
+**Q16.** Angle between hands at 3:40? (Variant 16)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q17.** Intermediate level reasoning problem 17?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q17.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 17)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q18.** Intermediate level reasoning problem 18?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q18.** Angle between hands at 3:40? (Variant 18)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q19.** Intermediate level reasoning problem 19?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q19.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 19)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q20.** Intermediate level reasoning problem 20?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q20.** Angle between hands at 3:40? (Variant 20)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q21.** Intermediate level reasoning problem 21?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q21.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 21)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q22.** Intermediate level reasoning problem 22?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q22.** Angle between hands at 3:40? (Variant 22)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q23.** Intermediate level reasoning problem 23?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q23.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 23)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q24.** Intermediate level reasoning problem 24?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q24.** Angle between hands at 3:40? (Variant 24)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q25.** Intermediate level reasoning problem 25?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q25.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 25)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q26.** Intermediate level reasoning problem 26?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q26.** Angle between hands at 3:40? (Variant 26)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q27.** Intermediate level reasoning problem 27?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q27.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 27)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q28.** Intermediate level reasoning problem 28?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q28.** Angle between hands at 3:40? (Variant 28)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q29.** Intermediate level reasoning problem 29?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q29.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 29)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q30.** Intermediate level reasoning problem 30?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Standard grid verification.
-* **Time**: 30 seconds
+---
+
+**Q30.** Angle between hands at 3:40? (Variant 30)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-## Level 3: ADVANCED (10 Questions)
-**Q31.** Advanced level reasoning problem 31?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+## 🔴 Advanced Level
+
+**Q31.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 31)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q32.** Advanced level reasoning problem 32?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+**Q32.** Angle between hands at 3:40? (Variant 32)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q33.** Advanced level reasoning problem 33?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+**Q33.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 33)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q34.** Advanced level reasoning problem 34?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+**Q34.** Angle between hands at 3:40? (Variant 34)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q35.** Advanced level reasoning problem 35?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+**Q35.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 35)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q36.** Advanced level reasoning problem 36?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+**Q36.** Angle between hands at 3:40? (Variant 36)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q37.** Advanced level reasoning problem 37?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+**Q37.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 37)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q38.** Advanced level reasoning problem 38?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+**Q38.** Angle between hands at 3:40? (Variant 38)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q39.** Advanced level reasoning problem 39?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+**Q39.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 39)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q40.** Advanced level reasoning problem 40?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex puzzle matching.
-* **Time**: 60 seconds
+---
+
+**Q40.** Angle between hands at 3:40? (Variant 40)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-## Level 4: SPEED DRILL (10 Questions)
-**Q41.** Rapid logical deduction check 41?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
+---
+
+**Q41.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 41)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q42.** Rapid logical deduction check 42?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
+---
+
+**Q42.** Angle between hands at 3:40? (Variant 42)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q43.** Rapid logical deduction check 43?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
+---
+
+**Q43.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 43)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q44.** Rapid logical deduction check 44?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
+---
+
+**Q44.** Angle between hands at 3:40? (Variant 44)
+A) 130 degrees
+B) 120 degrees
+C) 140 degrees
+D) 150 degrees
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: |30*3 - 5.5*40| = 130 degrees.
 </details>
 
-**Q45.** Rapid logical deduction check 45?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
+---
+
+**Q45.** If Jan 1, 2023 was a Sunday, what was Jan 8, 2023? (Variant 45)
+A) Sunday
+B) Monday
+C) Tuesday
+D) Saturday
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `A`
+* **Detailed Step-by-Step Logic**: 7 days later is the same day of the week.
 </details>
 
-**Q46.** Rapid logical deduction check 46?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
-</details>
-
-**Q47.** Rapid logical deduction check 47?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
-</details>
-
-**Q48.** Rapid logical deduction check 48?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
-</details>
-
-**Q49.** Rapid logical deduction check 49?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
-</details>
-
-**Q50.** Rapid logical deduction check 50?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Fast alphabet shifting.
-* **Time**: 10 seconds
-</details>
-
-## Extra Practice Question 357: Graded prep drills.
-## Extra Practice Question 358: Graded prep drills.
-## Extra Practice Question 359: Graded prep drills.
-## Extra Practice Question 360: Graded prep drills.
-## Extra Practice Question 361: Graded prep drills.
-## Extra Practice Question 362: Graded prep drills.
-## Extra Practice Question 363: Graded prep drills.
-## Extra Practice Question 364: Graded prep drills.
-## Extra Practice Question 365: Graded prep drills.
-## Extra Practice Question 366: Graded prep drills.
-## Extra Practice Question 367: Graded prep drills.
-## Extra Practice Question 368: Graded prep drills.
-## Extra Practice Question 369: Graded prep drills.
-## Extra Practice Question 370: Graded prep drills.
-## Extra Practice Question 371: Graded prep drills.
-## Extra Practice Question 372: Graded prep drills.
-## Extra Practice Question 373: Graded prep drills.
-## Extra Practice Question 374: Graded prep drills.
-## Extra Practice Question 375: Graded prep drills.
-## Extra Practice Question 376: Graded prep drills.
-## Extra Practice Question 377: Graded prep drills.
-## Extra Practice Question 378: Graded prep drills.
-## Extra Practice Question 379: Graded prep drills.
-## Extra Practice Question 380: Graded prep drills.
-## Extra Practice Question 381: Graded prep drills.
-## Extra Practice Question 382: Graded prep drills.
-## Extra Practice Question 383: Graded prep drills.
-## Extra Practice Question 384: Graded prep drills.
-## Extra Practice Question 385: Graded prep drills.
-## Extra Practice Question 386: Graded prep drills.
-## Extra Practice Question 387: Graded prep drills.
-## Extra Practice Question 388: Graded prep drills.
-## Extra Practice Question 389: Graded prep drills.
-## Extra Practice Question 390: Graded prep drills.
-## Extra Practice Question 391: Graded prep drills.
-## Extra Practice Question 392: Graded prep drills.
-## Extra Practice Question 393: Graded prep drills.
-## Extra Practice Question 394: Graded prep drills.
-## Extra Practice Question 395: Graded prep drills.
-## Extra Practice Question 396: Graded prep drills.
-## Extra Practice Question 397: Graded prep drills.
-## Extra Practice Question 398: Graded prep drills.
-## Extra Practice Question 399: Graded prep drills.
-## Extra Practice Question 400: Graded prep drills.
-## Extra Practice Question 401: Graded prep drills.
-## Extra Practice Question 402: Graded prep drills.
-## Extra Practice Question 403: Graded prep drills.
-## Extra Practice Question 404: Graded prep drills.
-## Extra Practice Question 405: Graded prep drills.
-## Extra Practice Question 406: Graded prep drills.
-## Extra Practice Question 407: Graded prep drills.
-## Extra Practice Question 408: Graded prep drills.
-## Extra Practice Question 409: Graded prep drills.
-## Extra Practice Question 410: Graded prep drills.
-## Extra Practice Question 411: Graded prep drills.
-## Extra Practice Question 412: Graded prep drills.
-## Extra Practice Question 413: Graded prep drills.
-## Extra Practice Question 414: Graded prep drills.
-## Extra Practice Question 415: Graded prep drills.
-## Extra Practice Question 416: Graded prep drills.
-## Extra Practice Question 417: Graded prep drills.
-## Extra Practice Question 418: Graded prep drills.
-## Extra Practice Question 419: Graded prep drills.
-## Extra Practice Question 420: Graded prep drills.
-## Extra Practice Question 421: Graded prep drills.
-## Extra Practice Question 422: Graded prep drills.
-## Extra Practice Question 423: Graded prep drills.
-## Extra Practice Question 424: Graded prep drills.
-## Extra Practice Question 425: Graded prep drills.
-## Extra Practice Question 426: Graded prep drills.
-## Extra Practice Question 427: Graded prep drills.
-## Extra Practice Question 428: Graded prep drills.
-## Extra Practice Question 429: Graded prep drills.
-## Extra Practice Question 430: Graded prep drills.
-## Extra Practice Question 431: Graded prep drills.
-## Extra Practice Question 432: Graded prep drills.
-## Extra Practice Question 433: Graded prep drills.
-## Extra Practice Question 434: Graded prep drills.
-## Extra Practice Question 435: Graded prep drills.
-## Extra Practice Question 436: Graded prep drills.
-## Extra Practice Question 437: Graded prep drills.
-## Extra Practice Question 438: Graded prep drills.
-## Extra Practice Question 439: Graded prep drills.
-## Extra Practice Question 440: Graded prep drills.
-## Extra Practice Question 441: Graded prep drills.
-## Extra Practice Question 442: Graded prep drills.
-## Extra Practice Question 443: Graded prep drills.
-## Extra Practice Question 444: Graded prep drills.
-## Extra Practice Question 445: Graded prep drills.
-## Extra Practice Question 446: Graded prep drills.
-## Extra Practice Question 447: Graded prep drills.
-## Extra Practice Question 448: Graded prep drills.
-## Extra Practice Question 449: Graded prep drills.
-## Extra Practice Question 450: Graded prep drills.
-## Extra Practice Question 451: Graded prep drills.
-## Extra Practice Question 452: Graded prep drills.
-## Extra Practice Question 453: Graded prep drills.
-## Extra Practice Question 454: Graded prep drills.
-## Extra Practice Question 455: Graded prep drills.
-## Extra Practice Question 456: Graded prep drills.
-## Extra Practice Question 457: Graded prep drills.
-## Extra Practice Question 458: Graded prep drills.
-## Extra Practice Question 459: Graded prep drills.
-## Extra Practice Question 460: Graded prep drills.
-## Extra Practice Question 461: Graded prep drills.
-## Extra Practice Question 462: Graded prep drills.
-## Extra Practice Question 463: Graded prep drills.
-## Extra Practice Question 464: Graded prep drills.
-## Extra Practice Question 465: Graded prep drills.
-## Extra Practice Question 466: Graded prep drills.
-## Extra Practice Question 467: Graded prep drills.
-## Extra Practice Question 468: Graded prep drills.
-## Extra Practice Question 469: Graded prep drills.
-## Extra Practice Question 470: Graded prep drills.
-## Extra Practice Question 471: Graded prep drills.
-## Extra Practice Question 472: Graded prep drills.
-## Extra Practice Question 473: Graded prep drills.
-## Extra Practice Question 474: Graded prep drills.
-## Extra Practice Question 475: Graded prep drills.
-## Extra Practice Question 476: Graded prep drills.
-## Extra Practice Question 477: Graded prep drills.
-## Extra Practice Question 478: Graded prep drills.
-## Extra Practice Question 479: Graded prep drills.
-## Extra Practice Question 480: Graded prep drills.
-## Extra Practice Question 481: Graded prep drills.
-## Extra Practice Question 482: Graded prep drills.
-## Extra Practice Question 483: Graded prep drills.
-## Extra Practice Question 484: Graded prep drills.
-## Extra Practice Question 485: Graded prep drills.
-## Extra Practice Question 486: Graded prep drills.
-## Extra Practice Question 487: Graded prep drills.
-## Extra Practice Question 488: Graded prep drills.
-## Extra Practice Question 489: Graded prep drills.
-## Extra Practice Question 490: Graded prep drills.
-## Extra Practice Question 491: Graded prep drills.
-## Extra Practice Question 492: Graded prep drills.
-## Extra Practice Question 493: Graded prep drills.
-## Extra Practice Question 494: Graded prep drills.
-## Extra Practice Question 495: Graded prep drills.
-## Extra Practice Question 496: Graded prep drills.
-## Extra Practice Question 497: Graded prep drills.
-## Extra Practice Question 498: Graded prep drills.
-## Extra Practice Question 499: Graded prep drills.
-## Extra Practice Question 500: Graded prep drills.
-## Extra Practice Question 501: Graded prep drills.
-## Extra Practice Question 502: Graded prep drills.
-## Extra Practice Question 503: Graded prep drills.
-## Extra Practice Question 504: Graded prep drills.
-## Extra Practice Question 505: Graded prep drills.
-## Extra Practice Question 506: Graded prep drills.
-## Extra Practice Question 507: Graded prep drills.
-## Extra Practice Question 508: Graded prep drills.
-## Extra Practice Question 509: Graded prep drills.
+---

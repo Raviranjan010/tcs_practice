@@ -1,510 +1,729 @@
-# 📝 01 Reading Comprehension Practice Questions
-Contains 50+ practice questions sorted by difficulty levels.
+# 📝 Reading Comprehension - Practice Questions
 
-## Level 1: BEGINNER (15 Questions)
-**Q1.** Beginner level verbal problem 1?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+Attempt these 45 unique practice questions to build strong verbal foundation.
+
+## 🟢 Beginner Level
+
+**Q1.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 1)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q2.** Beginner level verbal problem 2?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q2.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 2)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q3.** Beginner level verbal problem 3?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q3.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 3)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q4.** Beginner level verbal problem 4?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q4.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 4)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q5.** Beginner level verbal problem 5?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q5.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 5)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q6.** Beginner level verbal problem 6?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q6.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 6)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q7.** Beginner level verbal problem 7?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q7.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 7)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q8.** Beginner level verbal problem 8?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q8.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 8)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q9.** Beginner level verbal problem 9?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q9.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 9)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q10.** Beginner level verbal problem 10?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q10.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 10)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q11.** Beginner level verbal problem 11?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q11.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 11)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q12.** Beginner level verbal problem 12?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q12.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 12)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q13.** Beginner level verbal problem 13?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q13.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 13)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q14.** Beginner level verbal problem 14?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q14.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 14)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q15.** Beginner level verbal problem 15?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Direct subject matching.
-* **Time**: 15 seconds
+---
+
+**Q15.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 15)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-## Level 2: INTERMEDIATE (15 Questions)
-**Q16.** Intermediate level verbal problem 16?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+## 🟡 Intermediate Level
+
+**Q16.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 16)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q17.** Intermediate level verbal problem 17?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q17.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 17)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q18.** Intermediate level verbal problem 18?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q18.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 18)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q19.** Intermediate level verbal problem 19?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q19.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 19)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q20.** Intermediate level verbal problem 20?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q20.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 20)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q21.** Intermediate level verbal problem 21?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q21.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 21)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q22.** Intermediate level verbal problem 22?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q22.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 22)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q23.** Intermediate level verbal problem 23?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q23.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 23)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q24.** Intermediate level verbal problem 24?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q24.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 24)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q25.** Intermediate level verbal problem 25?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q25.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 25)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q26.** Intermediate level verbal problem 26?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q26.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 26)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q27.** Intermediate level verbal problem 27?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q27.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 27)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q28.** Intermediate level verbal problem 28?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q28.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 28)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q29.** Intermediate level verbal problem 29?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q29.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 29)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q30.** Intermediate level verbal problem 30?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option B`
-* **Method**: Prepositional selection.
-* **Time**: 20 seconds
+---
+
+**Q30.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 30)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-## Level 3: ADVANCED (10 Questions)
-**Q31.** Advanced level verbal problem 31?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+## 🔴 Advanced Level
+
+**Q31.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 31)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q32.** Advanced level verbal problem 32?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+**Q32.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 32)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q33.** Advanced level verbal problem 33?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+**Q33.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 33)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q34.** Advanced level verbal problem 34?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+**Q34.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 34)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q35.** Advanced level verbal problem 35?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+**Q35.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 35)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q36.** Advanced level verbal problem 36?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+**Q36.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 36)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q37.** Advanced level verbal problem 37?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+**Q37.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 37)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q38.** Advanced level verbal problem 38?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+**Q38.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 38)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q39.** Advanced level verbal problem 39?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+**Q39.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 39)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q40.** Advanced level verbal problem 40?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option C`
-* **Method**: Complex clause construction.
-* **Time**: 45 seconds
+---
+
+**Q40.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 40)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-## Level 4: SPEED DRILL (10 Questions)
-**Q41.** Rapid verbal syntax check 41?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
+---
+
+**Q41.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 41)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q42.** Rapid verbal syntax check 42?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
+---
+
+**Q42.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 42)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q43.** Rapid verbal syntax check 43?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
+---
+
+**Q43.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 43)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q44.** Rapid verbal syntax check 44?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
+---
+
+**Q44.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 44)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q45.** Rapid verbal syntax check 45?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
+---
+
+**Q45.** Read the passage:
+'Technology has revolutionized education, making self-paced learning accessible. However, it also introduces distractions.' What is the main idea? (Variant 45)
+A) Technology is completely bad.
+B) Technology is a double-edged sword.
+C) Self-paced learning fails.
+D) Distractions are the goal.
+<details>
+<summary>Click to view Answer & Explanation</summary>
+
+* **Answer**: `B`
+* **Explanation**: The passage details both benefits (accessible learning) and drawbacks (distractions).
+* **Detailed Step**: Apply grammar/context rules.
 </details>
 
-**Q46.** Rapid verbal syntax check 46?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
-</details>
-
-**Q47.** Rapid verbal syntax check 47?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
-</details>
-
-**Q48.** Rapid verbal syntax check 48?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
-</details>
-
-**Q49.** Rapid verbal syntax check 49?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
-</details>
-
-**Q50.** Rapid verbal syntax check 50?
-<details><summary>🔍 View Answer & Explanation</summary>
-* **Answer**: `Option A`
-* **Method**: Quick tense verification.
-* **Time**: 10 seconds
-</details>
-
-## Extra Practice Question 357: Graded prep drills.
-## Extra Practice Question 358: Graded prep drills.
-## Extra Practice Question 359: Graded prep drills.
-## Extra Practice Question 360: Graded prep drills.
-## Extra Practice Question 361: Graded prep drills.
-## Extra Practice Question 362: Graded prep drills.
-## Extra Practice Question 363: Graded prep drills.
-## Extra Practice Question 364: Graded prep drills.
-## Extra Practice Question 365: Graded prep drills.
-## Extra Practice Question 366: Graded prep drills.
-## Extra Practice Question 367: Graded prep drills.
-## Extra Practice Question 368: Graded prep drills.
-## Extra Practice Question 369: Graded prep drills.
-## Extra Practice Question 370: Graded prep drills.
-## Extra Practice Question 371: Graded prep drills.
-## Extra Practice Question 372: Graded prep drills.
-## Extra Practice Question 373: Graded prep drills.
-## Extra Practice Question 374: Graded prep drills.
-## Extra Practice Question 375: Graded prep drills.
-## Extra Practice Question 376: Graded prep drills.
-## Extra Practice Question 377: Graded prep drills.
-## Extra Practice Question 378: Graded prep drills.
-## Extra Practice Question 379: Graded prep drills.
-## Extra Practice Question 380: Graded prep drills.
-## Extra Practice Question 381: Graded prep drills.
-## Extra Practice Question 382: Graded prep drills.
-## Extra Practice Question 383: Graded prep drills.
-## Extra Practice Question 384: Graded prep drills.
-## Extra Practice Question 385: Graded prep drills.
-## Extra Practice Question 386: Graded prep drills.
-## Extra Practice Question 387: Graded prep drills.
-## Extra Practice Question 388: Graded prep drills.
-## Extra Practice Question 389: Graded prep drills.
-## Extra Practice Question 390: Graded prep drills.
-## Extra Practice Question 391: Graded prep drills.
-## Extra Practice Question 392: Graded prep drills.
-## Extra Practice Question 393: Graded prep drills.
-## Extra Practice Question 394: Graded prep drills.
-## Extra Practice Question 395: Graded prep drills.
-## Extra Practice Question 396: Graded prep drills.
-## Extra Practice Question 397: Graded prep drills.
-## Extra Practice Question 398: Graded prep drills.
-## Extra Practice Question 399: Graded prep drills.
-## Extra Practice Question 400: Graded prep drills.
-## Extra Practice Question 401: Graded prep drills.
-## Extra Practice Question 402: Graded prep drills.
-## Extra Practice Question 403: Graded prep drills.
-## Extra Practice Question 404: Graded prep drills.
-## Extra Practice Question 405: Graded prep drills.
-## Extra Practice Question 406: Graded prep drills.
-## Extra Practice Question 407: Graded prep drills.
-## Extra Practice Question 408: Graded prep drills.
-## Extra Practice Question 409: Graded prep drills.
-## Extra Practice Question 410: Graded prep drills.
-## Extra Practice Question 411: Graded prep drills.
-## Extra Practice Question 412: Graded prep drills.
-## Extra Practice Question 413: Graded prep drills.
-## Extra Practice Question 414: Graded prep drills.
-## Extra Practice Question 415: Graded prep drills.
-## Extra Practice Question 416: Graded prep drills.
-## Extra Practice Question 417: Graded prep drills.
-## Extra Practice Question 418: Graded prep drills.
-## Extra Practice Question 419: Graded prep drills.
-## Extra Practice Question 420: Graded prep drills.
-## Extra Practice Question 421: Graded prep drills.
-## Extra Practice Question 422: Graded prep drills.
-## Extra Practice Question 423: Graded prep drills.
-## Extra Practice Question 424: Graded prep drills.
-## Extra Practice Question 425: Graded prep drills.
-## Extra Practice Question 426: Graded prep drills.
-## Extra Practice Question 427: Graded prep drills.
-## Extra Practice Question 428: Graded prep drills.
-## Extra Practice Question 429: Graded prep drills.
-## Extra Practice Question 430: Graded prep drills.
-## Extra Practice Question 431: Graded prep drills.
-## Extra Practice Question 432: Graded prep drills.
-## Extra Practice Question 433: Graded prep drills.
-## Extra Practice Question 434: Graded prep drills.
-## Extra Practice Question 435: Graded prep drills.
-## Extra Practice Question 436: Graded prep drills.
-## Extra Practice Question 437: Graded prep drills.
-## Extra Practice Question 438: Graded prep drills.
-## Extra Practice Question 439: Graded prep drills.
-## Extra Practice Question 440: Graded prep drills.
-## Extra Practice Question 441: Graded prep drills.
-## Extra Practice Question 442: Graded prep drills.
-## Extra Practice Question 443: Graded prep drills.
-## Extra Practice Question 444: Graded prep drills.
-## Extra Practice Question 445: Graded prep drills.
-## Extra Practice Question 446: Graded prep drills.
-## Extra Practice Question 447: Graded prep drills.
-## Extra Practice Question 448: Graded prep drills.
-## Extra Practice Question 449: Graded prep drills.
-## Extra Practice Question 450: Graded prep drills.
-## Extra Practice Question 451: Graded prep drills.
-## Extra Practice Question 452: Graded prep drills.
-## Extra Practice Question 453: Graded prep drills.
-## Extra Practice Question 454: Graded prep drills.
-## Extra Practice Question 455: Graded prep drills.
-## Extra Practice Question 456: Graded prep drills.
-## Extra Practice Question 457: Graded prep drills.
-## Extra Practice Question 458: Graded prep drills.
-## Extra Practice Question 459: Graded prep drills.
-## Extra Practice Question 460: Graded prep drills.
-## Extra Practice Question 461: Graded prep drills.
-## Extra Practice Question 462: Graded prep drills.
-## Extra Practice Question 463: Graded prep drills.
-## Extra Practice Question 464: Graded prep drills.
-## Extra Practice Question 465: Graded prep drills.
-## Extra Practice Question 466: Graded prep drills.
-## Extra Practice Question 467: Graded prep drills.
-## Extra Practice Question 468: Graded prep drills.
-## Extra Practice Question 469: Graded prep drills.
-## Extra Practice Question 470: Graded prep drills.
-## Extra Practice Question 471: Graded prep drills.
-## Extra Practice Question 472: Graded prep drills.
-## Extra Practice Question 473: Graded prep drills.
-## Extra Practice Question 474: Graded prep drills.
-## Extra Practice Question 475: Graded prep drills.
-## Extra Practice Question 476: Graded prep drills.
-## Extra Practice Question 477: Graded prep drills.
-## Extra Practice Question 478: Graded prep drills.
-## Extra Practice Question 479: Graded prep drills.
-## Extra Practice Question 480: Graded prep drills.
-## Extra Practice Question 481: Graded prep drills.
-## Extra Practice Question 482: Graded prep drills.
-## Extra Practice Question 483: Graded prep drills.
-## Extra Practice Question 484: Graded prep drills.
-## Extra Practice Question 485: Graded prep drills.
-## Extra Practice Question 486: Graded prep drills.
-## Extra Practice Question 487: Graded prep drills.
-## Extra Practice Question 488: Graded prep drills.
-## Extra Practice Question 489: Graded prep drills.
-## Extra Practice Question 490: Graded prep drills.
-## Extra Practice Question 491: Graded prep drills.
-## Extra Practice Question 492: Graded prep drills.
-## Extra Practice Question 493: Graded prep drills.
-## Extra Practice Question 494: Graded prep drills.
-## Extra Practice Question 495: Graded prep drills.
-## Extra Practice Question 496: Graded prep drills.
-## Extra Practice Question 497: Graded prep drills.
-## Extra Practice Question 498: Graded prep drills.
-## Extra Practice Question 499: Graded prep drills.
-## Extra Practice Question 500: Graded prep drills.
-## Extra Practice Question 501: Graded prep drills.
-## Extra Practice Question 502: Graded prep drills.
-## Extra Practice Question 503: Graded prep drills.
-## Extra Practice Question 504: Graded prep drills.
-## Extra Practice Question 505: Graded prep drills.
-## Extra Practice Question 506: Graded prep drills.
-## Extra Practice Question 507: Graded prep drills.
-## Extra Practice Question 508: Graded prep drills.
-## Extra Practice Question 509: Graded prep drills.
+---

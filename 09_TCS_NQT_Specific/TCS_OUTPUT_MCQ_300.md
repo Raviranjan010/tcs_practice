@@ -1,6 +1,6 @@
 # 💻 300 Output-Based MCQ Questions
 
-This file contains exactly 300 output-based questions across C, C++, Java, and Python to master output tracing.
+This file contains exactly 300 output-based questions across C and C++ to master output tracing.
 
 ### Q1. What is the output of the following C++ code?
 ```
@@ -54,10 +54,16 @@ public class Main {
 
 ---
 
-### Q3. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q3. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -67,7 +73,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -152,10 +158,16 @@ public class Main {
 
 ---
 
-### Q7. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q7. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -165,7 +177,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -250,10 +262,16 @@ public class Main {
 
 ---
 
-### Q11. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q11. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -263,7 +281,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -348,10 +366,16 @@ public class Main {
 
 ---
 
-### Q15. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q15. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -361,7 +385,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -446,10 +470,16 @@ public class Main {
 
 ---
 
-### Q19. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q19. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -459,7 +489,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -544,10 +574,16 @@ public class Main {
 
 ---
 
-### Q23. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q23. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -557,7 +593,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -642,10 +678,16 @@ public class Main {
 
 ---
 
-### Q27. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q27. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -655,7 +697,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -740,10 +782,16 @@ public class Main {
 
 ---
 
-### Q31. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q31. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -753,7 +801,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -838,10 +886,16 @@ public class Main {
 
 ---
 
-### Q35. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q35. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -851,7 +905,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -936,10 +990,16 @@ public class Main {
 
 ---
 
-### Q39. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q39. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -949,7 +1009,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1034,10 +1094,16 @@ public class Main {
 
 ---
 
-### Q43. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q43. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1047,7 +1113,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1132,10 +1198,16 @@ public class Main {
 
 ---
 
-### Q47. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q47. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1145,7 +1217,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1230,10 +1302,16 @@ public class Main {
 
 ---
 
-### Q51. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q51. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1243,7 +1321,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1328,10 +1406,16 @@ public class Main {
 
 ---
 
-### Q55. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q55. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1341,7 +1425,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1426,10 +1510,16 @@ public class Main {
 
 ---
 
-### Q59. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q59. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1439,7 +1529,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1524,10 +1614,16 @@ public class Main {
 
 ---
 
-### Q63. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q63. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1537,7 +1633,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1622,10 +1718,16 @@ public class Main {
 
 ---
 
-### Q67. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q67. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1635,7 +1737,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1720,10 +1822,16 @@ public class Main {
 
 ---
 
-### Q71. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q71. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1733,7 +1841,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1818,10 +1926,16 @@ public class Main {
 
 ---
 
-### Q75. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q75. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1831,7 +1945,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -1916,10 +2030,16 @@ public class Main {
 
 ---
 
-### Q79. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q79. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -1929,7 +2049,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2014,10 +2134,16 @@ public class Main {
 
 ---
 
-### Q83. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q83. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2027,7 +2153,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2112,10 +2238,16 @@ public class Main {
 
 ---
 
-### Q87. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q87. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2125,7 +2257,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2210,10 +2342,16 @@ public class Main {
 
 ---
 
-### Q91. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q91. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2223,7 +2361,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2308,10 +2446,16 @@ public class Main {
 
 ---
 
-### Q95. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q95. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2321,7 +2465,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2406,10 +2550,16 @@ public class Main {
 
 ---
 
-### Q99. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q99. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2419,7 +2569,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2504,10 +2654,16 @@ public class Main {
 
 ---
 
-### Q103. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q103. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2517,7 +2673,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2602,10 +2758,16 @@ public class Main {
 
 ---
 
-### Q107. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q107. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2615,7 +2777,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2700,10 +2862,16 @@ public class Main {
 
 ---
 
-### Q111. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q111. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2713,7 +2881,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2798,10 +2966,16 @@ public class Main {
 
 ---
 
-### Q115. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q115. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2811,7 +2985,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2896,10 +3070,16 @@ public class Main {
 
 ---
 
-### Q119. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q119. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -2909,7 +3089,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -2994,10 +3174,16 @@ public class Main {
 
 ---
 
-### Q123. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q123. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3007,7 +3193,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3092,10 +3278,16 @@ public class Main {
 
 ---
 
-### Q127. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q127. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3105,7 +3297,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3190,10 +3382,16 @@ public class Main {
 
 ---
 
-### Q131. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q131. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3203,7 +3401,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3288,10 +3486,16 @@ public class Main {
 
 ---
 
-### Q135. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q135. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3301,7 +3505,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3386,10 +3590,16 @@ public class Main {
 
 ---
 
-### Q139. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q139. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3399,7 +3609,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3484,10 +3694,16 @@ public class Main {
 
 ---
 
-### Q143. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q143. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3497,7 +3713,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3582,10 +3798,16 @@ public class Main {
 
 ---
 
-### Q147. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q147. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3595,7 +3817,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3680,10 +3902,16 @@ public class Main {
 
 ---
 
-### Q151. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q151. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3693,7 +3921,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3778,10 +4006,16 @@ public class Main {
 
 ---
 
-### Q155. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q155. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3791,7 +4025,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3876,10 +4110,16 @@ public class Main {
 
 ---
 
-### Q159. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q159. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3889,7 +4129,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -3974,10 +4214,16 @@ public class Main {
 
 ---
 
-### Q163. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q163. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -3987,7 +4233,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4072,10 +4318,16 @@ public class Main {
 
 ---
 
-### Q167. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q167. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4085,7 +4337,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4170,10 +4422,16 @@ public class Main {
 
 ---
 
-### Q171. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q171. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4183,7 +4441,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4268,10 +4526,16 @@ public class Main {
 
 ---
 
-### Q175. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q175. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4281,7 +4545,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4366,10 +4630,16 @@ public class Main {
 
 ---
 
-### Q179. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q179. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4379,7 +4649,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4464,10 +4734,16 @@ public class Main {
 
 ---
 
-### Q183. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q183. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4477,7 +4753,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4562,10 +4838,16 @@ public class Main {
 
 ---
 
-### Q187. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q187. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4575,7 +4857,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4660,10 +4942,16 @@ public class Main {
 
 ---
 
-### Q191. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q191. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4673,7 +4961,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4758,10 +5046,16 @@ public class Main {
 
 ---
 
-### Q195. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q195. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4771,7 +5065,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4856,10 +5150,16 @@ public class Main {
 
 ---
 
-### Q199. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q199. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4869,7 +5169,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -4954,10 +5254,16 @@ public class Main {
 
 ---
 
-### Q203. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q203. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -4967,7 +5273,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5052,10 +5358,16 @@ public class Main {
 
 ---
 
-### Q207. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q207. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5065,7 +5377,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5150,10 +5462,16 @@ public class Main {
 
 ---
 
-### Q211. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q211. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5163,7 +5481,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5248,10 +5566,16 @@ public class Main {
 
 ---
 
-### Q215. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q215. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5261,7 +5585,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5346,10 +5670,16 @@ public class Main {
 
 ---
 
-### Q219. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q219. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5359,7 +5689,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5444,10 +5774,16 @@ public class Main {
 
 ---
 
-### Q223. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q223. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5457,7 +5793,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5542,10 +5878,16 @@ public class Main {
 
 ---
 
-### Q227. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q227. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5555,7 +5897,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5640,10 +5982,16 @@ public class Main {
 
 ---
 
-### Q231. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q231. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5653,7 +6001,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5738,10 +6086,16 @@ public class Main {
 
 ---
 
-### Q235. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q235. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5751,7 +6105,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5836,10 +6190,16 @@ public class Main {
 
 ---
 
-### Q239. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q239. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5849,7 +6209,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -5934,10 +6294,16 @@ public class Main {
 
 ---
 
-### Q243. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q243. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -5947,7 +6313,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6032,10 +6398,16 @@ public class Main {
 
 ---
 
-### Q247. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q247. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6045,7 +6417,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6130,10 +6502,16 @@ public class Main {
 
 ---
 
-### Q251. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q251. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6143,7 +6521,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6228,10 +6606,16 @@ public class Main {
 
 ---
 
-### Q255. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q255. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6241,7 +6625,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6326,10 +6710,16 @@ public class Main {
 
 ---
 
-### Q259. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q259. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6339,7 +6729,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6424,10 +6814,16 @@ public class Main {
 
 ---
 
-### Q263. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q263. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6437,7 +6833,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6522,10 +6918,16 @@ public class Main {
 
 ---
 
-### Q267. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q267. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6535,7 +6937,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6620,10 +7022,16 @@ public class Main {
 
 ---
 
-### Q271. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q271. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6633,7 +7041,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6718,10 +7126,16 @@ public class Main {
 
 ---
 
-### Q275. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q275. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6731,7 +7145,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6816,10 +7230,16 @@ public class Main {
 
 ---
 
-### Q279. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q279. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6829,7 +7249,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -6914,10 +7334,16 @@ public class Main {
 
 ---
 
-### Q283. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q283. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -6927,7 +7353,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -7012,10 +7438,16 @@ public class Main {
 
 ---
 
-### Q287. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q287. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -7025,7 +7457,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -7110,10 +7542,16 @@ public class Main {
 
 ---
 
-### Q291. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[0:4])
+### Q291. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(0, 4);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -7123,7 +7561,7 @@ print(s[0:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) TCSN  
-  **Explanation**: Python slicing starting from index 0 up to index 4 (exclusive) yields the substring 'TCSN'.  
+  **Explanation**: C++ `substr(0, 4)` starting from index 0 with length 4 yields the substring 'TCSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -7208,10 +7646,16 @@ public class Main {
 
 ---
 
-### Q295. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[1:4])
+### Q295. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(1, 3);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -7221,7 +7665,7 @@ print(s[1:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) CSN  
-  **Explanation**: Python slicing starting from index 1 up to index 4 (exclusive) yields the substring 'CSN'.  
+  **Explanation**: C++ `substr(1, 3)` starting from index 1 with length 3 yields the substring 'CSN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>
@@ -7306,10 +7750,16 @@ public class Main {
 
 ---
 
-### Q299. What is the output of the following Python code?
-```
-s = "TCSNQT"
-print(s[2:4])
+### Q299. What is the output of the following C++ code?
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s = "TCSNQT";
+    cout << s.substr(2, 2);
+    return 0;
+}
 ```
 * **Options**:
   - A) TCS
@@ -7319,7 +7769,7 @@ print(s[2:4])
 * <details><summary>🔍 View Answer & Explanation</summary>
 
   **Correct Answer**: B) SN  
-  **Explanation**: Python slicing starting from index 2 up to index 4 (exclusive) yields the substring 'SN'.  
+  **Explanation**: C++ `substr(2, 2)` starting from index 2 with length 2 yields the substring 'SN'.  
   **Trick**: Understand direct referencing vs value copies.  
   **Time to Solve**: 20 seconds.
   </details>

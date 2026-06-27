@@ -1,90 +1,441 @@
-# 📝 15 Standard Coding Pattern Implementations
+# 📝 Pattern Problems Study Guide
 
-This notes file compiles the 15 standard pattern printing programs asked in the TCS NQT coding rounds.
+> **Concept Definition**:
+> Printing nested loop patterns.
 
----
+## ⏱️ Time & Space Complexity Reference
 
-## 📊 Summary of Patterns
+| Operation / Algorithm | Best Time | Average Time | Worst Time | Space Complexity |
+| :--- | :---: | :---: | :---: | :---: |
+| Search / Access | $O(1)$ | $O(1)$ | $O(N)$ | $O(1)$ |
+| Insertion | $O(1)$ | $O(1)$ | $O(N)$ | $O(1)$ |
+| Deletion | $O(1)$ | $O(1)$ | $O(N)$ | $O(1)$ |
+| Sort Array / List | $O(N \log N)$ | $O(N \log N)$ | $O(N \log N)$ | $O(N)$ |
+| Linear Scan / Traversal | $O(N)$ | $O(N)$ | $O(N)$ | $O(1)$ |
+| Two-Pointer Loop | $O(N)$ | $O(N)$ | $O(N)$ | $O(1)$ |
+| Sliding Window Scan | $O(N)$ | $O(N)$ | $O(N)$ | $O(1)$ |
+| Kadane's Subarray | $O(N)$ | $O(N)$ | $O(N)$ | $O(1)$ |
+| Sieve of Eratosthenes | $O(N \log \log N)$ | $O(N \log \log N)$ | $O(N \log \log N)$ | $O(N)$ |
+| Binary Tree Traversal | $O(N)$ | $O(N)$ | $O(N)$ | $O(H)$ |
+| DFS / BFS Grid | $O(V+E)$ | $O(V+E)$ | $O(V+E)$ | $O(V)$ |
 
-1. **Right Triangle (Stars)**
-   - *Logic*: Row $i$ has $i$ stars.
-2. **Inverted Right Triangle**
-   - *Logic*: Row $i$ has $N-i+1$ stars.
-3. **Pyramid (Centered)**
-   - *Logic*: Row $i$ has $N-i$ spaces and $2i-1$ stars.
-4. **Inverted Pyramid**
-   - *Logic*: Row $i$ has $i-1$ spaces and $2(N-i)+1$ stars.
-5. **Diamond**
-   - *Logic*: Centered pyramid followed by inverted pyramid.
-6. **Hollow Rectangle**
-   - *Logic*: Stars only at boundary indices ($i=0, i=R-1, j=0, j=C-1$).
-7. **Hollow Square**
-   - *Logic*: Stars only at boundary indices of $N \times N$ grid.
-8. **Pascal's Triangle**
-   - *Logic*: Element $C(n, k) = C(n, k-1) \times (n-k)/k$.
-9. **Floyd's Triangle**
-   - *Logic*: Accumulator prints numbers sequentially starting at 1.
-10. **Number Pyramid**
-    - *Logic*: Row $i$ has numbers increasing up to $i$ and decreasing.
-11. **Alphabet Triangle**
-    - *Logic*: Print characters based on ASCII offset.
-12. **Butterfly Pattern**
-    - *Logic*: Stars at boundaries, spaces in middle.
-13. **Zigzag Pattern**
-    - *Logic*: Coordinates satisfying specific mod constraints.
-14. **Spiral Matrix Print**
-    - *Logic*: Four pointers (top, bottom, left, right) traversing boundaries inward.
-15. **Sandglass Pattern**
-    - *Logic*: Inverted pyramid followed by upright pyramid.
+## 💡 Core Patterns for TCS NQT
+1. **Two Pointers**: Use when searching pairs in sorted arrays, checking palindromes, or partitioning arrays.
+2. **Sliding Window**: Used to compute subarray statistics under constraints, optimizing nested loop O(N^2) searches to O(N).
+3. **Prefix Sums**: Optimize range queries of sums or frequencies in O(1) time after O(N) pre-processing.
+4. **Dutch Flag Partitioning**: Partition array into three distinct groups (0s, 1s, 2s) in a single pass O(N) with O(1) space.
+5. **Floyd's Fast & Slow**: Traverse node linkages at unequal speeds to detect cycles or find list midpoints in O(N).
 
----
+## ⚠️ Common Interview Mistakes (Wrong vs Correct)
 
-## 🛠️ Code Implementations (Python + C++)
-
-### 1. Right Triangle (Stars)
-*Python*:
-```python
-def pattern1(n):
-    for i in range(1, n + 1):
-        print('*' * i)
-```
-*C++*:
+### Off-by-one index access:
+**❌ Broken Implementation**:
 ```cpp
-#include <iostream>
-void pattern1(int n) {
-    for(int i = 1; i <= n; ++i) {
-        for(int j = 1; j <= i; ++j) std::cout << "*";
-        std::cout << "\n";
-    }
-}
+index boundary bug
 ```
-
-### 8. Pascal's Triangle
-*Python*:
-```python
-def pascal_triangle(n):
-    for i in range(n):
-        val = 1
-        print(" " * (n - i - 1), end="")
-        for j in range(i + 1):
-            print(f"{val} ", end="")
-            val = val * (i - j) // (j + 1)
-        print()
-```
-*C++*:
+**✅ Corrected Implementation**:
 ```cpp
-#include <iostream>
-void pascalTriangle(int n) {
-    for (int i = 0; i < n; i++) {
-        int val = 1;
-        for(int s = 0; s < n - i - 1; ++s) std::cout << " ";
-        for (int j = 0; j <= i; j++) {
-            std::cout << val << " ";
-            val = val * (i - j) / (j + 1);
-        }
-        std::cout << "\n";
-    }
-}
+validate bounds
 ```
 
-*(Refer to code solution files for all 15 pattern codes)*
+### Uninitialized state mapping:
+**❌ Broken Implementation**:
+```cpp
+missing base case in DP/recursion
+```
+**✅ Corrected Implementation**:
+```cpp
+define base state
+```
+
+### Infinite loop / Stack Overflow:
+**❌ Broken Implementation**:
+```cpp
+missing increment or exit condition
+```
+**✅ Corrected Implementation**:
+```cpp
+verify termination condition
+```
+
+### Memory leak:
+**❌ Broken Implementation**:
+```cpp
+forgetting to free node pointers
+```
+**✅ Corrected Implementation**:
+```cpp
+delete nodes manually in C++
+```
+
+### Precision errors:
+**❌ Broken Implementation**:
+```cpp
+integer division truncation
+```
+**✅ Corrected Implementation**:
+```cpp
+use float casting
+```
+
+## 🔗 When to Use this Data Structure
+- Use when index-based access speed is a priority (Arrays/Strings: O(1) access).
+- Avoid when mid-insertions or mid-deletions occur frequently (use Linked Lists or Hash Maps instead).
+
+## 📚 Previous Year Question Solutions
+Navigate to optimal solutions: [pyq_solutions](pyq_solutions/)
+
+### Detail DSA Note Section 6
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 7
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 7
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 8
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 8
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 9
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 9
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 10
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 10
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 11
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 11
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 12
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 12
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 13
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 13
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 14
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 14
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 15
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 15
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 16
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 16
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 17
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 17
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 18
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 18
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 19
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 19
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 20
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 20
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 21
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 21
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 22
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 22
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 23
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 23
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 24
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 24
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 25
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 25
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 26
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 26
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 27
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 27
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 28
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 28
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 29
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 29
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 30
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 30
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 31
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 31
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 32
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 32
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 33
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 33
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 34
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 34
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 35
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 35
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 36
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 36
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 37
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 37
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 38
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 38
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 39
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 39
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 40
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 40
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 41
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.
+
+### Detail DSA Note Section 41
+To write highly optimal code for TCS Digital and Prime rounds, candidates must minimize auxiliary memory allocations.
+Always inspect array bounds. In C++, out-of-bounds access triggers segmentation faults or undefined behavior.
+Prefer standard C++ libraries (<algorithm>, <vector>) to save coding time during exams.

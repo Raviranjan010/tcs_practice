@@ -5,17 +5,6 @@ This file contains fully implemented, optimal coding solutions for the 50 most a
 ## Problem 1: Two Sum Hash Map (Variation 1)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -34,17 +23,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 2: Two Sum Hash Map (Variation 2)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -65,17 +43,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 3: Two Sum Hash Map (Variation 3)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -94,17 +61,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 4: Two Sum Hash Map (Variation 4)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -125,17 +81,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 5: Two Sum Hash Map (Variation 5)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -154,17 +99,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 6: Two Sum Hash Map (Variation 6)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -185,17 +119,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 7: Two Sum Hash Map (Variation 7)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -214,17 +137,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 8: Two Sum Hash Map (Variation 8)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -245,17 +157,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 9: Two Sum Hash Map (Variation 9)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -274,17 +175,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 10: Two Sum Hash Map (Variation 10)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -305,17 +195,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 11: Two Sum Hash Map (Variation 11)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -334,17 +213,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 12: Two Sum Hash Map (Variation 12)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -365,17 +233,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 13: Two Sum Hash Map (Variation 13)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -394,17 +251,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 14: Two Sum Hash Map (Variation 14)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -425,17 +271,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 15: Two Sum Hash Map (Variation 15)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -454,17 +289,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 16: Two Sum Hash Map (Variation 16)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -485,17 +309,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 17: Two Sum Hash Map (Variation 17)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -514,17 +327,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 18: Two Sum Hash Map (Variation 18)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -545,17 +347,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 19: Two Sum Hash Map (Variation 19)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -574,17 +365,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 20: Two Sum Hash Map (Variation 20)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -605,17 +385,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 21: Two Sum Hash Map (Variation 21)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -634,17 +403,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 22: Two Sum Hash Map (Variation 22)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -665,17 +423,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 23: Two Sum Hash Map (Variation 23)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -694,17 +441,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 24: Two Sum Hash Map (Variation 24)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -725,17 +461,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 25: Two Sum Hash Map (Variation 25)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -754,17 +479,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 26: Two Sum Hash Map (Variation 26)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -785,17 +499,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 27: Two Sum Hash Map (Variation 27)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -814,17 +517,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 28: Two Sum Hash Map (Variation 28)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -845,17 +537,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 29: Two Sum Hash Map (Variation 29)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -874,17 +555,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 30: Two Sum Hash Map (Variation 30)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -905,17 +575,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 31: Two Sum Hash Map (Variation 31)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -934,17 +593,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 32: Two Sum Hash Map (Variation 32)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -965,17 +613,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 33: Two Sum Hash Map (Variation 33)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -994,17 +631,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 34: Two Sum Hash Map (Variation 34)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1025,17 +651,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 35: Two Sum Hash Map (Variation 35)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -1054,17 +669,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 36: Two Sum Hash Map (Variation 36)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1085,17 +689,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 37: Two Sum Hash Map (Variation 37)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -1114,17 +707,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 38: Two Sum Hash Map (Variation 38)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1145,17 +727,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 39: Two Sum Hash Map (Variation 39)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -1174,17 +745,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 40: Two Sum Hash Map (Variation 40)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1205,17 +765,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 41: Two Sum Hash Map (Variation 41)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -1234,17 +783,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 42: Two Sum Hash Map (Variation 42)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1265,17 +803,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 43: Two Sum Hash Map (Variation 43)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -1294,17 +821,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 44: Two Sum Hash Map (Variation 44)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1325,17 +841,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 45: Two Sum Hash Map (Variation 45)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -1354,17 +859,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 46: Two Sum Hash Map (Variation 46)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1385,17 +879,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 47: Two Sum Hash Map (Variation 47)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -1414,17 +897,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 48: Two Sum Hash Map (Variation 48)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp
@@ -1445,17 +917,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 ## Problem 49: Two Sum Hash Map (Variation 49)
 Find indices of two numbers that sum to target.
 
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
-
 ### 👾 C++ Solution
 ```cpp
 #include <vector>
@@ -1474,17 +935,6 @@ std::vector<int> twoSum(std::vector<int>& arr, int target) {
 
 ## Problem 50: Two Sum Hash Map (Variation 50)
 Find indices of two numbers that sum to target.
-
-### 🐍 Python Solution
-```python
-def two_sum(arr, target):
-    seen = {}
-    for idx, x in enumerate(arr):
-        if target - x in seen:
-            return [seen[target - x], idx]
-        seen[x] = idx
-    return []
-```
 
 ### 👾 C++ Solution
 ```cpp

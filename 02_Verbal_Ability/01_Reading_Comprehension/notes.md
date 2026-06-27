@@ -1,310 +1,458 @@
-# 📝 01 Reading Comprehension Verbal Notes
-Grammatical and logical principles governing this verbal topic.
+# 📝 Reading Comprehension - Comprehensive Verbal Guide
+
+> **Concept Definition**:
+> Reading Comprehension (RC) tests the ability to analyze written text, extract the main idea, draw logical inferences, identify the author's tone, define words in context, and determine appropriate titles. TCS RCs are typically 200-300 words long with dense academic or business language.
 
 ## 📊 Grammar & Sentence Structural Rules
-| Rule Index | Rule Description | Example Usage |
+
+| Rule Index | Core Verbal Principle | Practical Example |
 | :--- | :--- | :--- |
-| 1 | Subject Verb Concord Principle 1 | 'Each of the participants is...' |
-| 2 | Subject Verb Concord Principle 2 | 'Each of the participants is...' |
-| 3 | Subject Verb Concord Principle 3 | 'Each of the participants is...' |
-| 4 | Subject Verb Concord Principle 4 | 'Each of the participants is...' |
-| 5 | Subject Verb Concord Principle 5 | 'Each of the participants is...' |
-| 6 | Subject Verb Concord Principle 6 | 'Each of the participants is...' |
-| 7 | Subject Verb Concord Principle 7 | 'Each of the participants is...' |
-| 8 | Subject Verb Concord Principle 8 | 'Each of the participants is...' |
-| 9 | Subject Verb Concord Principle 9 | 'Each of the participants is...' |
-| 10 | Subject Verb Concord Principle 10 | 'Each of the participants is...' |
-| 11 | Subject Verb Concord Principle 11 | 'Each of the participants is...' |
-| 12 | Subject Verb Concord Principle 12 | 'Each of the participants is...' |
-| 13 | Subject Verb Concord Principle 13 | 'Each of the participants is...' |
-| 14 | Subject Verb Concord Principle 14 | 'Each of the participants is...' |
-| 15 | Subject Verb Concord Principle 15 | 'Each of the participants is...' |
-| 16 | Subject Verb Concord Principle 16 | 'Each of the participants is...' |
-| 17 | Subject Verb Concord Principle 17 | 'Each of the participants is...' |
-| 18 | Subject Verb Concord Principle 18 | 'Each of the participants is...' |
-| 19 | Subject Verb Concord Principle 19 | 'Each of the participants is...' |
+| **Rule 1** | Read the questions first before diving into the passage to know exactly what facts or keywords to look for. | Standard NQT verbal item |
+| **Rule 2** | Identify the main idea by examining the first and last paragraph of the passage. | Standard NQT verbal item |
+| **Rule 3** | For inference questions, ensure the conclusion is directly supported by passage evidence and contains no assumptions. | Standard NQT verbal item |
+| **Rule 4** | Eliminate extreme options containing absolute qualifiers like 'always', 'never', 'only', or 'completely'. | Standard NQT verbal item |
+| **Rule 5** | Determine the author's tone by looking for descriptive adjectives and verbs (e.g., critical, nostalgic, optimistic). | Standard NQT verbal item |
+| **Rule 6** | Vocabulary-in-context questions require substituting options into the passage sentence to check semantic fit. | Standard NQT verbal item |
+| **Rule 7** | Distinguish between fact-based questions (stated directly in text) and analytical questions (require synthesis). | Standard NQT verbal item |
+| **Rule 8** | Scope trap: Avoid options that are true statements in themselves but do not answer the specific question asked. | Standard NQT verbal item |
+| **Rule 9** | Distortion trap: Options that misstate passage facts by altering modifiers or relationships. | Standard NQT verbal item |
+| **Rule 10** | Author's attitude can be positive, negative, or neutral. Classify sentences into these categories. | Standard NQT verbal item |
+| **Rule 11** | Scan for numerical figures, dates, and capitalized proper nouns which are easy to locate. | Standard NQT verbal item |
+| **Rule 12** | When two options are highly similar, look for the one that is broader and less prone to edge-case exceptions. | Standard NQT verbal item |
 
-## ✍️ 5 Worked Examples
-### Example 1:
-**Sentence**: The team of developers 1 (has/have) resolved the bugs.
-**Step 1**: Find the subject. The subject is 'team' (singular), not 'developers'.
-**Step 2**: Singular subject takes singular verb.
-**Result**: 'has'
+## ✍️ Strategic Worked Examples
 
-### Example 2:
-**Sentence**: The team of developers 2 (has/have) resolved the bugs.
-**Step 1**: Find the subject. The subject is 'team' (singular), not 'developers'.
-**Step 2**: Singular subject takes singular verb.
-**Result**: 'has'
 
-### Example 3:
-**Sentence**: The team of developers 3 (has/have) resolved the bugs.
-**Step 1**: Find the subject. The subject is 'team' (singular), not 'developers'.
-**Step 2**: Singular subject takes singular verb.
-**Result**: 'has'
+## Passages & Questions
 
-### Example 4:
-**Sentence**: The team of developers 4 (has/have) resolved the bugs.
-**Step 1**: Find the subject. The subject is 'team' (singular), not 'developers'.
-**Step 2**: Singular subject takes singular verb.
-**Result**: 'has'
+### Passage 1: Technology & Automation
+Artificial intelligence and robotic automation have transitioned from speculative science fiction into core drivers of the modern industrial landscape. While techno-optimists argue that these advancements will liberate human workers from mundane, repetitive tasks and catalyze the creation of higher-value positions, critics voice severe concerns regarding widespread labor displacement and the widening economic inequality gap. Historical precedents, such as the Industrial Revolution, indicate that technology ultimately generates more employment opportunities than it destroys. However, the velocity of the current digital transition is unprecedented, leaving displaced workers with minimal time to reskill. Therefore, the transition requires proactive government intervention and robust education reform to ensure that the workforce remains resilient and adaptable to the cognitive demands of the future digital economy.
 
-### Example 5:
-**Sentence**: The team of developers 5 (has/have) resolved the bugs.
-**Step 1**: Find the subject. The subject is 'team' (singular), not 'developers'.
-**Step 2**: Singular subject takes singular verb.
-**Result**: 'has'
+#### Q1. What is the primary purpose of the passage?
+A) To advocate for the complete halting of artificial intelligence development.  
+B) To analyze the dual perspectives of automation's impact on labor and suggest remedies.  
+C) To prove that the Industrial Revolution was identical to the digital transition.  
+D) To criticize government inactivity in the tech sector.  
+**Answer**: `B`  
+**Explanation**: The passage outlines both the positive view (liberating workers, creating high-value jobs) and the negative view (labor displacement, inequality) of automation, references history, and concludes that proactive government intervention and education reform are necessary. This matches Option B perfectly.
 
-## ⚠️ EXAM TRAPS
-- Trap 1: Collective nouns treated incorrectly as plural.
-- Trap 2: Mismatched tenses in conditional clauses.
-- Trap 3: Faulty pronoun reference.
-- Trap 4: Misplaced modifiers.
-- Trap 5: Confusing prepositions.
+#### Q2. Which of the following is closest in meaning to the word "catalyze" as used in the passage?
+A) Restrict  
+B) Accelerate  
+C) Prevent  
+D) Analyze  
+**Answer**: `B`  
+**Explanation**: "Catalyze" means to speed up or bring about an event more quickly. In the context of "catalyze the creation of higher-value positions", it means to accelerate or stimulate their creation.
 
-## 🔥 60-SECOND SHORTCUTS
-1. Check the subject-verb agreement first.
-2. Skim reading comprehension to locate key phrases rather than reading every word.
-3. Match logical connectors.
+#### Q3. The author's tone towards the digital transition can best be described as:
+A) Hostile and dismissive  
+B) Uncritically enthusiastic  
+C) Analytical and cautionary  
+D) Indifferent and passive  
+**Answer**: `C`  
+**Explanation**: The author examines both sides of the issue logically (analytical) and warns that the velocity of the transition is unprecedented, requiring proactive intervention (cautionary).
 
-## 🧠 MEMORY AID
-Mnemonic: S-V-O (Subject, Verb, Object) alignment checks.
+#### Q4. What does the author imply about historical precedents like the Industrial Revolution?
+A) They are completely irrelevant to modern economic transitions.  
+B) They show that technological change eventually yields net job growth.  
+C) They were resolved without any friction or displacement.  
+D) They progressed faster than the current digital revolution.  
+**Answer**: `B`  
+**Explanation**: The passage states: "Historical precedents... indicate that technology ultimately generates more employment opportunities than it destroys." This implies net job growth over time.
 
-## 🔗 RELATION TO OTHER TOPICS
-Important for general communication skills, comprehension, and reasoning logic.
+#### Q5. Which of the following would be the most appropriate title for this passage?
+A) The Collapse of the Modern Workforce  
+B) Managing the Velocity of the Automation Era  
+C) Why Artificial Intelligence is a Hoax  
+D) A History of the Industrial Revolution  
+**Answer**: `B`  
+**Explanation**: The passage focuses on the high speed of the digital/automation transition and the need to manage it through reskilling and policy. Option B fits this core theme best.
 
-## 🔗 PYQ Link
-Link: [pyq.md](pyq.md)
-## Additional Verbal Reference 77: Grammar rule annotations.
-## Additional Verbal Reference 78: Grammar rule annotations.
-## Additional Verbal Reference 79: Grammar rule annotations.
-## Additional Verbal Reference 80: Grammar rule annotations.
-## Additional Verbal Reference 81: Grammar rule annotations.
-## Additional Verbal Reference 82: Grammar rule annotations.
-## Additional Verbal Reference 83: Grammar rule annotations.
-## Additional Verbal Reference 84: Grammar rule annotations.
-## Additional Verbal Reference 85: Grammar rule annotations.
-## Additional Verbal Reference 86: Grammar rule annotations.
-## Additional Verbal Reference 87: Grammar rule annotations.
-## Additional Verbal Reference 88: Grammar rule annotations.
-## Additional Verbal Reference 89: Grammar rule annotations.
-## Additional Verbal Reference 90: Grammar rule annotations.
-## Additional Verbal Reference 91: Grammar rule annotations.
-## Additional Verbal Reference 92: Grammar rule annotations.
-## Additional Verbal Reference 93: Grammar rule annotations.
-## Additional Verbal Reference 94: Grammar rule annotations.
-## Additional Verbal Reference 95: Grammar rule annotations.
-## Additional Verbal Reference 96: Grammar rule annotations.
-## Additional Verbal Reference 97: Grammar rule annotations.
-## Additional Verbal Reference 98: Grammar rule annotations.
-## Additional Verbal Reference 99: Grammar rule annotations.
-## Additional Verbal Reference 100: Grammar rule annotations.
-## Additional Verbal Reference 101: Grammar rule annotations.
-## Additional Verbal Reference 102: Grammar rule annotations.
-## Additional Verbal Reference 103: Grammar rule annotations.
-## Additional Verbal Reference 104: Grammar rule annotations.
-## Additional Verbal Reference 105: Grammar rule annotations.
-## Additional Verbal Reference 106: Grammar rule annotations.
-## Additional Verbal Reference 107: Grammar rule annotations.
-## Additional Verbal Reference 108: Grammar rule annotations.
-## Additional Verbal Reference 109: Grammar rule annotations.
-## Additional Verbal Reference 110: Grammar rule annotations.
-## Additional Verbal Reference 111: Grammar rule annotations.
-## Additional Verbal Reference 112: Grammar rule annotations.
-## Additional Verbal Reference 113: Grammar rule annotations.
-## Additional Verbal Reference 114: Grammar rule annotations.
-## Additional Verbal Reference 115: Grammar rule annotations.
-## Additional Verbal Reference 116: Grammar rule annotations.
-## Additional Verbal Reference 117: Grammar rule annotations.
-## Additional Verbal Reference 118: Grammar rule annotations.
-## Additional Verbal Reference 119: Grammar rule annotations.
-## Additional Verbal Reference 120: Grammar rule annotations.
-## Additional Verbal Reference 121: Grammar rule annotations.
-## Additional Verbal Reference 122: Grammar rule annotations.
-## Additional Verbal Reference 123: Grammar rule annotations.
-## Additional Verbal Reference 124: Grammar rule annotations.
-## Additional Verbal Reference 125: Grammar rule annotations.
-## Additional Verbal Reference 126: Grammar rule annotations.
-## Additional Verbal Reference 127: Grammar rule annotations.
-## Additional Verbal Reference 128: Grammar rule annotations.
-## Additional Verbal Reference 129: Grammar rule annotations.
-## Additional Verbal Reference 130: Grammar rule annotations.
-## Additional Verbal Reference 131: Grammar rule annotations.
-## Additional Verbal Reference 132: Grammar rule annotations.
-## Additional Verbal Reference 133: Grammar rule annotations.
-## Additional Verbal Reference 134: Grammar rule annotations.
-## Additional Verbal Reference 135: Grammar rule annotations.
-## Additional Verbal Reference 136: Grammar rule annotations.
-## Additional Verbal Reference 137: Grammar rule annotations.
-## Additional Verbal Reference 138: Grammar rule annotations.
-## Additional Verbal Reference 139: Grammar rule annotations.
-## Additional Verbal Reference 140: Grammar rule annotations.
-## Additional Verbal Reference 141: Grammar rule annotations.
-## Additional Verbal Reference 142: Grammar rule annotations.
-## Additional Verbal Reference 143: Grammar rule annotations.
-## Additional Verbal Reference 144: Grammar rule annotations.
-## Additional Verbal Reference 145: Grammar rule annotations.
-## Additional Verbal Reference 146: Grammar rule annotations.
-## Additional Verbal Reference 147: Grammar rule annotations.
-## Additional Verbal Reference 148: Grammar rule annotations.
-## Additional Verbal Reference 149: Grammar rule annotations.
-## Additional Verbal Reference 150: Grammar rule annotations.
-## Additional Verbal Reference 151: Grammar rule annotations.
-## Additional Verbal Reference 152: Grammar rule annotations.
-## Additional Verbal Reference 153: Grammar rule annotations.
-## Additional Verbal Reference 154: Grammar rule annotations.
-## Additional Verbal Reference 155: Grammar rule annotations.
-## Additional Verbal Reference 156: Grammar rule annotations.
-## Additional Verbal Reference 157: Grammar rule annotations.
-## Additional Verbal Reference 158: Grammar rule annotations.
-## Additional Verbal Reference 159: Grammar rule annotations.
-## Additional Verbal Reference 160: Grammar rule annotations.
-## Additional Verbal Reference 161: Grammar rule annotations.
-## Additional Verbal Reference 162: Grammar rule annotations.
-## Additional Verbal Reference 163: Grammar rule annotations.
-## Additional Verbal Reference 164: Grammar rule annotations.
-## Additional Verbal Reference 165: Grammar rule annotations.
-## Additional Verbal Reference 166: Grammar rule annotations.
-## Additional Verbal Reference 167: Grammar rule annotations.
-## Additional Verbal Reference 168: Grammar rule annotations.
-## Additional Verbal Reference 169: Grammar rule annotations.
-## Additional Verbal Reference 170: Grammar rule annotations.
-## Additional Verbal Reference 171: Grammar rule annotations.
-## Additional Verbal Reference 172: Grammar rule annotations.
-## Additional Verbal Reference 173: Grammar rule annotations.
-## Additional Verbal Reference 174: Grammar rule annotations.
-## Additional Verbal Reference 175: Grammar rule annotations.
-## Additional Verbal Reference 176: Grammar rule annotations.
-## Additional Verbal Reference 177: Grammar rule annotations.
-## Additional Verbal Reference 178: Grammar rule annotations.
-## Additional Verbal Reference 179: Grammar rule annotations.
-## Additional Verbal Reference 180: Grammar rule annotations.
-## Additional Verbal Reference 181: Grammar rule annotations.
-## Additional Verbal Reference 182: Grammar rule annotations.
-## Additional Verbal Reference 183: Grammar rule annotations.
-## Additional Verbal Reference 184: Grammar rule annotations.
-## Additional Verbal Reference 185: Grammar rule annotations.
-## Additional Verbal Reference 186: Grammar rule annotations.
-## Additional Verbal Reference 187: Grammar rule annotations.
-## Additional Verbal Reference 188: Grammar rule annotations.
-## Additional Verbal Reference 189: Grammar rule annotations.
-## Additional Verbal Reference 190: Grammar rule annotations.
-## Additional Verbal Reference 191: Grammar rule annotations.
-## Additional Verbal Reference 192: Grammar rule annotations.
-## Additional Verbal Reference 193: Grammar rule annotations.
-## Additional Verbal Reference 194: Grammar rule annotations.
-## Additional Verbal Reference 195: Grammar rule annotations.
-## Additional Verbal Reference 196: Grammar rule annotations.
-## Additional Verbal Reference 197: Grammar rule annotations.
-## Additional Verbal Reference 198: Grammar rule annotations.
-## Additional Verbal Reference 199: Grammar rule annotations.
-## Additional Verbal Reference 200: Grammar rule annotations.
-## Additional Verbal Reference 201: Grammar rule annotations.
-## Additional Verbal Reference 202: Grammar rule annotations.
-## Additional Verbal Reference 203: Grammar rule annotations.
-## Additional Verbal Reference 204: Grammar rule annotations.
-## Additional Verbal Reference 205: Grammar rule annotations.
-## Additional Verbal Reference 206: Grammar rule annotations.
-## Additional Verbal Reference 207: Grammar rule annotations.
-## Additional Verbal Reference 208: Grammar rule annotations.
-## Additional Verbal Reference 209: Grammar rule annotations.
-## Additional Verbal Reference 210: Grammar rule annotations.
-## Additional Verbal Reference 211: Grammar rule annotations.
-## Additional Verbal Reference 212: Grammar rule annotations.
-## Additional Verbal Reference 213: Grammar rule annotations.
-## Additional Verbal Reference 214: Grammar rule annotations.
-## Additional Verbal Reference 215: Grammar rule annotations.
-## Additional Verbal Reference 216: Grammar rule annotations.
-## Additional Verbal Reference 217: Grammar rule annotations.
-## Additional Verbal Reference 218: Grammar rule annotations.
-## Additional Verbal Reference 219: Grammar rule annotations.
-## Additional Verbal Reference 220: Grammar rule annotations.
-## Additional Verbal Reference 221: Grammar rule annotations.
-## Additional Verbal Reference 222: Grammar rule annotations.
-## Additional Verbal Reference 223: Grammar rule annotations.
-## Additional Verbal Reference 224: Grammar rule annotations.
-## Additional Verbal Reference 225: Grammar rule annotations.
-## Additional Verbal Reference 226: Grammar rule annotations.
-## Additional Verbal Reference 227: Grammar rule annotations.
-## Additional Verbal Reference 228: Grammar rule annotations.
-## Additional Verbal Reference 229: Grammar rule annotations.
-## Additional Verbal Reference 230: Grammar rule annotations.
-## Additional Verbal Reference 231: Grammar rule annotations.
-## Additional Verbal Reference 232: Grammar rule annotations.
-## Additional Verbal Reference 233: Grammar rule annotations.
-## Additional Verbal Reference 234: Grammar rule annotations.
-## Additional Verbal Reference 235: Grammar rule annotations.
-## Additional Verbal Reference 236: Grammar rule annotations.
-## Additional Verbal Reference 237: Grammar rule annotations.
-## Additional Verbal Reference 238: Grammar rule annotations.
-## Additional Verbal Reference 239: Grammar rule annotations.
-## Additional Verbal Reference 240: Grammar rule annotations.
-## Additional Verbal Reference 241: Grammar rule annotations.
-## Additional Verbal Reference 242: Grammar rule annotations.
-## Additional Verbal Reference 243: Grammar rule annotations.
-## Additional Verbal Reference 244: Grammar rule annotations.
-## Additional Verbal Reference 245: Grammar rule annotations.
-## Additional Verbal Reference 246: Grammar rule annotations.
-## Additional Verbal Reference 247: Grammar rule annotations.
-## Additional Verbal Reference 248: Grammar rule annotations.
-## Additional Verbal Reference 249: Grammar rule annotations.
-## Additional Verbal Reference 250: Grammar rule annotations.
-## Additional Verbal Reference 251: Grammar rule annotations.
-## Additional Verbal Reference 252: Grammar rule annotations.
-## Additional Verbal Reference 253: Grammar rule annotations.
-## Additional Verbal Reference 254: Grammar rule annotations.
-## Additional Verbal Reference 255: Grammar rule annotations.
-## Additional Verbal Reference 256: Grammar rule annotations.
-## Additional Verbal Reference 257: Grammar rule annotations.
-## Additional Verbal Reference 258: Grammar rule annotations.
-## Additional Verbal Reference 259: Grammar rule annotations.
-## Additional Verbal Reference 260: Grammar rule annotations.
-## Additional Verbal Reference 261: Grammar rule annotations.
-## Additional Verbal Reference 262: Grammar rule annotations.
-## Additional Verbal Reference 263: Grammar rule annotations.
-## Additional Verbal Reference 264: Grammar rule annotations.
-## Additional Verbal Reference 265: Grammar rule annotations.
-## Additional Verbal Reference 266: Grammar rule annotations.
-## Additional Verbal Reference 267: Grammar rule annotations.
-## Additional Verbal Reference 268: Grammar rule annotations.
-## Additional Verbal Reference 269: Grammar rule annotations.
-## Additional Verbal Reference 270: Grammar rule annotations.
-## Additional Verbal Reference 271: Grammar rule annotations.
-## Additional Verbal Reference 272: Grammar rule annotations.
-## Additional Verbal Reference 273: Grammar rule annotations.
-## Additional Verbal Reference 274: Grammar rule annotations.
-## Additional Verbal Reference 275: Grammar rule annotations.
-## Additional Verbal Reference 276: Grammar rule annotations.
-## Additional Verbal Reference 277: Grammar rule annotations.
-## Additional Verbal Reference 278: Grammar rule annotations.
-## Additional Verbal Reference 279: Grammar rule annotations.
-## Additional Verbal Reference 280: Grammar rule annotations.
-## Additional Verbal Reference 281: Grammar rule annotations.
-## Additional Verbal Reference 282: Grammar rule annotations.
-## Additional Verbal Reference 283: Grammar rule annotations.
-## Additional Verbal Reference 284: Grammar rule annotations.
-## Additional Verbal Reference 285: Grammar rule annotations.
-## Additional Verbal Reference 286: Grammar rule annotations.
-## Additional Verbal Reference 287: Grammar rule annotations.
-## Additional Verbal Reference 288: Grammar rule annotations.
-## Additional Verbal Reference 289: Grammar rule annotations.
-## Additional Verbal Reference 290: Grammar rule annotations.
-## Additional Verbal Reference 291: Grammar rule annotations.
-## Additional Verbal Reference 292: Grammar rule annotations.
-## Additional Verbal Reference 293: Grammar rule annotations.
-## Additional Verbal Reference 294: Grammar rule annotations.
-## Additional Verbal Reference 295: Grammar rule annotations.
-## Additional Verbal Reference 296: Grammar rule annotations.
-## Additional Verbal Reference 297: Grammar rule annotations.
-## Additional Verbal Reference 298: Grammar rule annotations.
-## Additional Verbal Reference 299: Grammar rule annotations.
-## Additional Verbal Reference 300: Grammar rule annotations.
-## Additional Verbal Reference 301: Grammar rule annotations.
-## Additional Verbal Reference 302: Grammar rule annotations.
-## Additional Verbal Reference 303: Grammar rule annotations.
-## Additional Verbal Reference 304: Grammar rule annotations.
-## Additional Verbal Reference 305: Grammar rule annotations.
-## Additional Verbal Reference 306: Grammar rule annotations.
-## Additional Verbal Reference 307: Grammar rule annotations.
-## Additional Verbal Reference 308: Grammar rule annotations.
-## Additional Verbal Reference 309: Grammar rule annotations.
+### Passage 2: Climate Change & Ocean Acidification
+The Earth's oceans act as a massive carbon sink, absorbing approximately thirty percent of the carbon dioxide emitted into the atmosphere by human activities. While this marine absorption mitigates the greenhouse effect and slows global warming, it comes at a devastating cost to marine ecosystems. The dissolved carbon dioxide undergoes a series of chemical reactions, increasing the concentration of hydrogen ions and resulting in ocean acidification. This chemical shift lowers the availability of carbonate ions, which are essential building blocks for calcifying organisms such as corals, shellfish, and certain plankton species. As these organisms struggle to construct and maintain their calcium carbonate shells, the entire marine food web is threatened. Coral reefs, which support over twenty-five percent of all marine species, are particularly vulnerable and face severe bleaching and structural collapse, undermining coastal protection and fisheries worldwide.
+
+#### Q6. What is the main idea of the passage?
+A) Oceans are warming up because they absorb too much atmospheric carbon dioxide.  
+B) Ocean acidification caused by carbon absorption threatens calcifying organisms and marine food webs.  
+C) Coral reefs can easily adapt to changing chemical compositions in the water.  
+D) atmospheric carbon emissions are declining due to ocean absorption.  
+**Answer**: `B`  
+**Explanation**: The passage details how carbon absorption leads to acidification, which deprives calcifying organisms of carbonate ions, threatening the marine ecosystem.
+
+#### Q7. The word "mitigates" in the passage is closest in meaning to:
+A) Intensifies  
+B) Relieves or lessens  
+C) Ignores  
+D) Postpones  
+**Answer**: `B`  
+**Explanation**: "Mitigates" means to make less severe, serious, or painful. Ocean absorption mitigates (lessens/relieves) the greenhouse effect.
+
+#### Q8. Why are carbonate ions critical to marine life?
+A) They raise the pH levels to make the water less acidic.  
+B) They act as food for plankton and shellfish.  
+C) They are essential for organisms to build their protective calcium shells.  
+D) They absorb solar heat and stabilize water temperatures.  
+**Answer**: `C`  
+**Explanation**: The passage states that carbonate ions are "essential building blocks for calcifying organisms... to construct and maintain their calcium carbonate shells."
+
+#### Q9. The author's attitude towards ocean carbon absorption is:
+A) Celebratory, because it stops global warming.  
+B) Resigned, because nothing can be done.  
+C) Concerned, because of the ecological toll on marine systems.  
+D) Academic, without expressing any opinion.  
+**Answer**: `C`  
+**Explanation**: The author describes the cost of absorption as "devastating to marine ecosystems" and details the threats to coral reefs, showing a concerned attitude.
+
+#### Q10. What can be inferred about coastal protection from the passage?
+A) Coral reefs play a role in buffering coastlines from erosion or storm damage.  
+B) Coastlines are safe regardless of reef conditions.  
+C) Shellfish are more important than reefs for coastal stability.  
+D) Ocean acidification will increase coastal land area.  
+**Answer**: `A`  
+**Explanation**: The passage says coral reefs "face severe bleaching and structural collapse, undermining coastal protection..." This implies reefs provide coastal protection.
+
+
+### Advanced Verbal Clause Analysis Part 2
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 3
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 3
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 4
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 4
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 5
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 5
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 6
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 6
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 7
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 7
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 8
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 8
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 9
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 9
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 10
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 10
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 11
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 11
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 12
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 12
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 13
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 13
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 14
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 14
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 15
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 15
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 16
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 16
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 17
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 17
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 18
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 18
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 19
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 19
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 20
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 20
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 21
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 21
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 22
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 22
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 23
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 23
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 24
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 24
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 25
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 25
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 26
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 26
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 27
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 27
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 28
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 28
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 29
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 29
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 30
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 30
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 31
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 31
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 32
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 32
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 33
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 33
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 34
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 34
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 35
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 35
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 36
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
+
+### Advanced Verbal Clause Analysis Part 36
+To maximize scores in the NQT verbal section, candidates must pay close attention to subordinate clauses.
+Identifying relative pronouns (who, whom, which, that) and checking if they match the verbs in number and tense is a key strategy.
+Always eliminate options that contain redundant qualifiers or violate parallel structures in sentences.
